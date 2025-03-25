@@ -43,22 +43,19 @@ freedoms, and every aspect of our lives. Among them are:</p>
 </ul>
 <p>Second Trump Administration Connections:</p>
 
-<h3>Pam Bondi</h3>
-<h3><i>U.S. Attorney General</i></h3>
+<h3>Pam Bondi - <i>U.S. Attorney General</i></h3>
 
 <p>Defended President Trump during his first impeachment trial and upheld Florida’s restrictive 
 abortion ban. Pam Bondi is an ardent Project 2025 supporter and was actively working to implement 
 Project 2025 before President Donald Trump nominated her for U.S. Attorney General.</p>
 
-<h3>Russell Vought</h3>
-<h3><i>Office of Management and Budget</i></h3>
+<h3>Russell Vought - <i>Office of Management and Budget</i></h3>
 
 <p>As director of the OMB, Vought will lead the implementation and enforcement of presidential policy 
 across the federal government. As a co-author of Project 2025, he advocated for abolishing the 
 Gender Policy Counsel to eliminate the promotion of abortion and comprehensive sex education.</p>
 
-<h3>Martin Makary</h3>
-<h3><i>FDA Commissioner</i></h3>
+<h3>Martin Makary - <i>FDA Commissioner</i></h3>
 
 <p>Fox News Contributor who has pushed anti-abortion disinformation on the network and is associated 
 with Paragon Health Institute, a conservative think tank that advocates for decreased federal 
@@ -77,13 +74,11 @@ health care spending.</p>
 
 <p>Second Trump Administration Connections:</p>
 
-<h3>Tom Homan</h3>
-<h3><i>Border Czar</i></h3>
+<h3>Tom Homan - <i>Border Czar</i></h3>
 
 <p>Contributor, Project 2025</p>
 
-<h3>Stephen Miller</h3>
-<h3><i>Deputy Chief of Staff</i></h3>
+<h3>Stephen Miller - <i>Deputy Chief of Staff</i></h3>
 
 <p>Led an interest group that advised Project 2025 on policy.</p>
 
@@ -98,16 +93,14 @@ health care spending.</p>
 
 <h3>Second Trump Administration Connections:</h3>
 
-<h3>Russell Vought</h3>
-<h3><i>Office of Management and Budget</i></h3>
+<h3>Russell Vought - <i>Office of Management and Budget</i></h3>
 
 As director of the OMB, Vought will lead the implementation and enforcement of presidential 
 policy across the federal government. Authored Project 2025’s chapter on the Executive Office 
 of the President of the United States and reportedly spearheaded the project’s playbook for 
 Trump’s first 180 days.
 
-<h3>John Ratcliffe</h3>
-<h3><i>CIA Director</i></h3>
+<h3>John Ratcliffe - <i>CIA Director</i></h3>
 
 Hasp pledged to keep and support the use of contested electronic intelligence gathering tools.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -120,8 +113,7 @@ Hasp pledged to keep and support the use of contested electronic intelligence ga
 
 <h3>Second Trump Administration Connections</h3>
 
-<h3>Russell Vought</h3>
-<h3><i>Office of Management and Budget</i></h3>
+<h3>Russell Vought - <i>Office of Management and Budget</i></h3>
 
 As director of the OMB, Vought will lead the implementation and enforcement of presidential 
 policy across the federal government. Authored Project 2025’s chapter on the Executive Office 
@@ -135,8 +127,7 @@ Abuse executive power to interfere in our elections by criminalizing the voting 
 damaging fair representation
 Second Trump Administration Connections
 
-<h3>Pam Bondi</h3>
-<h3><i>Attorney General</i></h3>
+<h3>Pam Bondi - <i>Attorney General</i></h3>
 
 As co-chair for the America First Policy Institute's Center for Law and Justice, she has 
 spearheaded efforts to restrict and disenfranchise voters. She led a multistate effort to 
@@ -144,8 +135,7 @@ overturn a pro-voting Biden Administration executive order that would have expan
 access. Pam Bondi is an ardent Project 2025 supporter and was actively working to implement 
 Project 2025 before President Donald Trump nominated her for U.S. Attorney General.
 
-<h3>Harmeet Dhillon</h3>
-<h3><i>Assistant Attorney General for the Civil Rights Division</i></h3>
+<h3>Harmeet Dhillon - <i>Assistant Attorney General for the Civil Rights Division</i></h3>
 
 Has focused her career on dismantling civil rights, rather than protecting them. She has worked 
 to restrict voting access and helped fuel 2020 election lies and challenged the election results 
@@ -158,8 +148,7 @@ on several occasions by using disinformation.
 Censor academic discussions about race, gender, and systemic oppression
 Second Trump Administration Connections
 
-<h3>Linda McMahon</h3>
-<h3><i>Secretary of Education</i></h3>
+<h3>Linda McMahon - <i>Secretary of Education</i></h3>
 
 Plans to send education back to the states and has actively championed anti-trans rhetoric. 
 She has promoted policies aligned with Project 2025 including promoting vouchers to drain 
@@ -179,16 +168,14 @@ American Worker for the America First Policy Institute
 </ul>
 Second Trump Administration Connections
 
-<h3>Pam Bondi</h3>
-<h3><i>U.S. Attorney General</i></h3>
+<h3>Pam Bondi - <i>U.S. Attorney General</i></h3>
 
 Actively fought against the legalization of same-sex marriage as Florida Attorney General and 
 sought to uphold Flordia’s ban on marriage equality. Pam Bondi is an ardent Project 2025 supporter 
 and was actively working to implement Project 2025 before President Donald Trump nominated her for 
 U.S. Attorney General.
 
-<h3>Linda McMahon</h3>
-<h3><i>Secretary of Education</i></h3>
+<h3>Linda McMahon - <i>Secretary of Education</i></h3>
 
 Chair of the board at the America First Policy Institute, a conservative think tank she launched 
 with former Trump administration officials. The non-profit is openly anti-trans, claims to combat 
