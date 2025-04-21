@@ -2387,6 +2387,7 @@ Note: FEMA clawed back $80 million in previously approved migrant housing funds 
 FEMA
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DHS
 Dept. of Homeland Security 
@@ -2433,6 +2434,7 @@ Increase ICE funding for 100,000 detention beds.
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 DHS
 Dept. of Homeland Security 
@@ -2443,6 +2445,7 @@ Note: Trump announced an end to TPS protections for hundreds of thousands of peo
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DHS
 Dept. of Homeland Security 
@@ -2451,6 +2454,7 @@ Revive Trump's public charge rule.
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DHS
 Dept. of Homeland Security 
@@ -2467,6 +2471,7 @@ End chain migration.
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 DHS
 Dept. of Homeland Security 
@@ -2477,6 +2482,7 @@ Note: Trump officials have reportedly prepared plans "to swiftly expel migrants 
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DHS
 Dept. of Homeland Security 
@@ -2485,6 +2491,7 @@ Repeal Section 235 of the TVPRA (which protects unaccompanied minors encountered
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DHS
 Dept. of Homeland Security 
@@ -2493,6 +2500,7 @@ End the Flores Settlement Agreement (which sets basic standards of care for immi
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DHS
 Dept. of Homeland Security 
@@ -2501,6 +2509,7 @@ Congress should require compliance with immigration detainers.
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 DHS
 Dept. of Homeland Security 
@@ -2511,6 +2520,7 @@ Note: DHS ended TSA collective bargaining agreement.
 police
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DHS
 Dept. of Homeland Security 
@@ -2520,6 +2530,7 @@ intel
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DOJ
 Dept. of Justice 
@@ -2529,6 +2540,7 @@ LGBTQIA
 education
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DOJ
 Dept. of Justice 
@@ -2537,6 +2549,7 @@ Rescind AG Garland's policy that limited the Department's ability to subpoena jo
 intel
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DOJ
 Dept. of Justice 
@@ -2545,6 +2558,7 @@ Eliminate the Office of General Counsel, Office of Congressional Affairs, and Of
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 DOJ
 Dept. of Justice 
@@ -2555,6 +2569,7 @@ Note: DOJ leaders told U.S. attorneys to investigate law enforcement officials w
 criminal justice
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DOJ
 Dept. of Justice 
@@ -2563,6 +2578,7 @@ Rigorously prosecute drug activity including "simple possession of distributable
 criminal justice
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DOJ
 Dept. of Justice 
@@ -2572,6 +2588,7 @@ civil rights
 voting rights
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 DOJ
 Dept. of Justice 
@@ -2582,6 +2599,7 @@ Note: (currently partially blocked by court order).
 DEIA
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 DOJ
 Dept. of Justice 
@@ -2590,6 +2608,7 @@ Enforce the Comstock Act.
 reproductive health
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 DOJ
 Dept. of Justice 
@@ -2601,6 +2620,7 @@ funding
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Labor
 Dept. of Labor 
@@ -2611,6 +2631,7 @@ Note: (currently partially blocked by court order).
 DEIA
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Labor
 Dept. of Labor 
@@ -2621,6 +2642,7 @@ Note: "vast majority of employees" at the OFCCP put on leave.
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2629,6 +2651,7 @@ Eliminate the Office of Federal Contract Compliance Programs.
 civil rights
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2637,6 +2660,7 @@ Clarify that no employer is required to provide accommodations for abortion (e.g
 reproductive health
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2647,6 +2671,7 @@ LGBTQIA
 reproductive health
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2655,6 +2680,7 @@ Mandate time-and-a-half compensation on a Sabbath.
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2663,6 +2689,7 @@ Lessen child labor regulations to allow "teenage workers" to work "inherently da
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2671,6 +2698,7 @@ Undermine union protections by allowing employer "councils" and favoring right-t
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2679,6 +2707,7 @@ Roll back definition of “protected concerted activity” that protects employe
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2687,6 +2716,7 @@ Rescind the "persuader rule" that required employers to disclose when they had h
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Labor
 Dept. of Labor 
@@ -2697,6 +2727,7 @@ Note: Federal Mediation & Conciliation Service (FMCS) will no longer assist with
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2705,6 +2736,7 @@ Eliminate the "contract bar rule" that prevents employers from union-busting and
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2713,6 +2745,7 @@ Outsource the administration of unemployment programs to “non-public organizat
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2722,6 +2755,7 @@ environment
 LGBTQIA
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Labor
 Dept. of Labor 
@@ -2730,6 +2764,7 @@ Let companies stop paying overtime and allow states to opt out of federal overti
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 State
 Dept. of State 
@@ -2740,6 +2775,7 @@ Note: (currently partially blocked by court order).
 aid
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 State
 Dept. of State 
@@ -2750,6 +2786,7 @@ Note: Trump went farther, suspending all refugee access (currently blocked by co
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 State
 Dept. of State 
@@ -2758,6 +2795,7 @@ Withdraw from United Nations Educational, Scientific and Cultural Organization.
 aid
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Interior
 Dept. of the Interior 
@@ -2769,6 +2807,7 @@ energy
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Interior
 Dept. of the Interior 
@@ -2777,6 +2816,7 @@ Abandon withdrawals of lands from leasing in the Thompson Divide of the White Ri
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Interior
 Dept. of the Interior 
@@ -2785,6 +2825,7 @@ Reinstate Trump's limitations on the Endangered Species Act's definition of "cri
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Interior
 Dept. of the Interior 
@@ -2795,6 +2836,7 @@ Note: Trump reinstated his first administration's impact reviews of the project,
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Interior
 Dept. of the Interior 
@@ -2803,6 +2845,7 @@ Repeal of the Antiquities Act of 1906.
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Interior
 Dept. of the Interior 
@@ -2811,6 +2854,7 @@ Downsize national monuments.
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Interior
 Dept. of the Interior 
@@ -2819,6 +2863,7 @@ Delist the grizzly bear and gray wolf from the Endangered Species Act.
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Interior
 Dept. of the Interior 
@@ -2830,6 +2875,7 @@ energy
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2838,6 +2884,7 @@ Enact a two-income tax bracket system (would raise taxes by $3,000 for the media
 taxes
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2846,6 +2893,7 @@ Reduce corporate income tax rate.
 taxes
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2854,6 +2902,7 @@ Reduce the estate and gift tax.
 taxes
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2863,6 +2912,7 @@ taxes
 labor
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Treasury
 Dept. of the Treasury 
@@ -2873,6 +2923,7 @@ Note: Trump withdrew from the OECD's global tax deal.
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Treasury
 Dept. of the Treasury 
@@ -2883,6 +2934,7 @@ Note: Trump is laying off 6,000 IRS employees.
 taxes
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2891,6 +2943,7 @@ Cease funding to and withdraw from the World Bank and International Monetary Fun
 aid
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2899,6 +2952,7 @@ Repeal key sections of Dodd-Frank.
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2908,6 +2962,7 @@ economy
 housing
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Treasury
 Dept. of the Treasury 
@@ -2919,6 +2974,7 @@ economy
 accountability
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2928,6 +2984,7 @@ reorganization
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Treasury
 Dept. of the Treasury 
@@ -2936,6 +2993,7 @@ Eliminate the U.S. Trade and Development Agency.
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Transportation
 Dept. of Transportation 
@@ -2944,6 +3002,7 @@ Shift DOT grants to the states to spend as they wish.
 transportation
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Transportation
 Dept. of Transportation 
@@ -2952,6 +3011,7 @@ Separate the Air Traffic Organization from the FAA.
 FAA
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Transportation
 Dept. of Transportation 
@@ -2962,6 +3022,7 @@ Note: Trump said on 2/6/25 that private companies will be building a new air tra
 FAA
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Transportation
 Dept. of Transportation 
@@ -2970,6 +3031,7 @@ Eliminate funding for the FTA’s Capital Investment Grants (CIG) program (helps
 transportation
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Transportation
 Dept. of Transportation 
@@ -2978,6 +3040,7 @@ Eliminate the two-person train crew safety regulations.
 transportation
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 VA
 Dept. of Veterans Affairs 
@@ -2986,6 +3049,7 @@ Prevent the VA from covering abortion services.
 reproductive health
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 VA
 Dept. of Veterans Affairs 
@@ -2994,6 +3058,7 @@ Outsource more care into private facilities.
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 VA
 Dept. of Veterans Affairs 
@@ -3002,6 +3067,7 @@ Increase automation in processing benefits claims.
 technology
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 VA
 Dept. of Veterans Affairs 
@@ -3010,6 +3076,7 @@ Reduce disability ratings for future claims, partially reduce for existing claim
 health
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 VA
 Dept. of Veterans Affairs 
@@ -3020,6 +3087,7 @@ Note: According to a leaked memo, the VA deactivated coursework on "Whistleblowe
 accountability
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 EPA
 Environmental Protection Agency 
@@ -3030,6 +3098,7 @@ Note: Trump ordered EPA Secretary Zeldin to "immediately go back to" his first a
 energy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 EPA
 Environmental Protection Agency 
@@ -3038,6 +3107,7 @@ Eliminate the Office of Enforcement and Compliance Assistance.
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 EPA
 Environmental Protection Agency 
@@ -3046,6 +3116,7 @@ Eliminate the Office of Public Engagement and Environmental Education.
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 EPA
 Environmental Protection Agency 
@@ -3054,6 +3125,7 @@ Eliminate the Office of Children’s Health Protection.
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 EPA
 Environmental Protection Agency 
@@ -3064,6 +3136,7 @@ Note: The EPA is planning to eliminate the GHGRP.
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 EPA
 Environmental Protection Agency 
@@ -3072,6 +3145,7 @@ Eliminate the use of Title 42 hiring authority.
 reorganization
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 EPA
 Environmental Protection Agency 
@@ -3080,6 +3154,7 @@ Repeal the Global Change Research Act of 1990.
 environment
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FCC
 Federal Communications Commission 
@@ -3088,6 +3163,7 @@ Narrow scope of Section 230.
 technology
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FCC
 Federal Communications Commission 
@@ -3096,6 +3172,7 @@ Stop U.S. companies from "feeding, training, and improving" AI datasets belongin
 technology
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FCC
 Federal Communications Commission 
@@ -3104,6 +3181,7 @@ Expedite work to support low-earth orbit satellites like StarLink.
 technology
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FEC
 Federal Election Commission 
@@ -3112,6 +3190,7 @@ Limit campaign finance enforcement.
 elections
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FEC
 Federal Election Commission 
@@ -3120,6 +3199,7 @@ Raise contribution limits.
 elections
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Federal Reserve
 Eliminate the Federal Reserve mission of full employment.
@@ -3127,6 +3207,7 @@ Eliminate the Federal Reserve mission of full employment.
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Federal Reserve
 Abolish the Federal Reserve and move to a "free banking" system.
@@ -3134,6 +3215,7 @@ Abolish the Federal Reserve and move to a "free banking" system.
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FTC
 Federal Trade Commission 
@@ -3143,6 +3225,7 @@ economy
 accountability
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FTC
 Federal Trade Commission 
@@ -3152,6 +3235,7 @@ economy
 accountability
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 FDA
 Food and Drug Administration 
@@ -3160,6 +3244,7 @@ Reverse FDA approval of mifepristone (abortion pill) OR ban telehealth prescript
 reproductive health
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Housing and Urban Development
 End Property Appraisal and Valuation Equity (PAVE) programs, which are a set of guidelines for producing home appraisals that are free of racial, ethnic, or any other form of bias.
@@ -3167,6 +3252,7 @@ End Property Appraisal and Valuation Equity (PAVE) programs, which are a set of 
 equality
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Housing and Urban Development
 Eliminate Housing Supply Fund.
@@ -3174,6 +3260,7 @@ Eliminate Housing Supply Fund.
 housing
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Housing and Urban Development
 End Housing First policies.
@@ -3183,6 +3270,7 @@ Note: HUD has removed housing first policies from their website.
 housing
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Housing and Urban Development
 Impose time limits for residents in tenant-based and project-based assistance programs.
@@ -3190,6 +3278,7 @@ Impose time limits for residents in tenant-based and project-based assistance pr
 housing
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 Housing and Urban Development
 Ban mixed-status families (U.S. citizens and noncitizens) from living in all federally assisted housing.
@@ -3200,6 +3289,7 @@ housing
 immigration
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Housing and Urban Development
 Limit FHA mortgages to first-time buyers and increase the FHA mortgage insurance premium for all products above 20-year terms.
@@ -3207,6 +3297,7 @@ Limit FHA mortgages to first-time buyers and increase the FHA mortgage insurance
 housing
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 IC
 Intelligence Community 
@@ -3215,6 +3306,7 @@ Prohibit the IC from monitoring "so-called domestic disinformation".
 intel
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 IC
 Intelligence Community 
@@ -3225,6 +3317,7 @@ Note: Starting to be implemented in other departments: Musk's team wants an "AI-
 technology
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 IC
 Intelligence Community 
@@ -3233,6 +3326,7 @@ Re-negotiate intelligence sharing protocols with the EU.
 intel
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 NIH
 National Institutes of Health 
@@ -3241,6 +3335,7 @@ Prohibit stem cell research/use.
 health
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Personnel
 Reinstate merit pay system for top tier federal government employees.
@@ -3248,6 +3343,7 @@ Reinstate merit pay system for top tier federal government employees.
 personnel
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Personnel
 Reduce federal employees' pay and benefits.
@@ -3255,6 +3351,7 @@ Reduce federal employees' pay and benefits.
 personnel
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Securities and Exchange Commission
 Abolish the Financial Industry Regulatory Authority and Public Company Accounting Oversight Board.
@@ -3262,6 +3359,7 @@ Abolish the Financial Industry Regulatory Authority and Public Company Accountin
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Securities and Exchange Commission
 Repeal Dodd-Frank mandated disclosures relating to conflict minerals, mine safety, resource extraction, and CEO pay ratios.
@@ -3269,6 +3367,7 @@ Repeal Dodd-Frank mandated disclosures relating to conflict minerals, mine safet
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 Securities and Exchange Commission
 Eliminate all administrative proceedings within the SEC.
@@ -3276,6 +3375,7 @@ Eliminate all administrative proceedings within the SEC.
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 SBA
 Small Business Administration 
@@ -3284,6 +3384,7 @@ End cash grants to small businesses (includes disaster aid).
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 SBA
 Small Business Administration 
@@ -3292,6 +3393,7 @@ Allow previously prohibited religious entities to receive SBA loans.
 economy
 
 View Sources
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 USAGM
 U.S. Agency for Global Media 
@@ -3302,10 +3404,9 @@ Note: Trump signed an executive order to eliminate the USAGM (currently blocked 
 media
 
 View Sources
-•
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 www.whitehouse.gov
 (opens in new tab)
-•
 project2025.org, pg. 242
 (opens in new tab)
 IN PROGRESS
@@ -3319,10 +3420,9 @@ media
 technology
 
 View Sources
-•
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 www.whitehouse.gov
 (opens in new tab)
-•
 project2025.org, pg. 242
 (opens in new tab)
 IN PROGRESS
@@ -3335,10 +3435,9 @@ Note: The House passed a bill that would allow Congress to review multiple CRA e
 presidential power
 
 View Sources
-•
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 archive.ph
 (opens in new tab)
-•
 project2025.org, pg. 50
 (opens in new tab)
 NOT STARTED
@@ -3349,7 +3448,7 @@ Issue an executive order to reshape the U.S. Global Change Research Program.
 environment
 
 View Sources
-•
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 project2025.org, pg. 59
 (opens in new tab)
 Support Transparency
