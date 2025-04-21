@@ -37,6 +37,7 @@ initiatives are outright unconstitutional.</p>
 <h2>What Are Some Plans/Proposals Included in Project 2025?</h2>
 <p>Project 2025 calls for hundreds of individual policy changes that will impact our constitutional 
 freedoms, and every aspect of our lives. Among them are:</p>
+<p><a href="https://www.project2025.observer/">Project 2025 Observer</a></p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Gutting Abortion Access</h2>
