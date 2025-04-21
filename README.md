@@ -1,4 +1,6 @@
 <h1>science vs project 2025 (the right-wing wish list)</h1>
+<h2>Republicans DEMONIZE, DOWNSIZE, then PRIVATIVE</h2>
+<H3>Fuck You!</H3>
 <p>What is Project 2025? According to project 2025 &amp; the heritage foundation, 'Mandate for Leadership: The Conservative Promise'.
 Seriously? What the Fuck? Morons with money is their definition. True pieces of shit.</p>
 
