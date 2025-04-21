@@ -1,5 +1,8 @@
-<h1>science</h1>
-<a href="https://www.project2025.observer/">Project 2025 Observer</a>
+<h1>science vs project 2025 (the right-wing wish list)</h1>
+<p>What is Project 2025? According to project 2025 &amp; the heritage foundation, 'Mandate for Leadership: The Conservative Promise'.
+Seriously? What the Fuck? Morons with money is their definition. True pieces of shit.</p>
+
+<p><a href="https://www.project2025.observer/">Project 2025 Observer</a></p>
 
 <p>Many conservatives have a loose relationship with facts. The right-wing denial of what most people 
 think of as accepted reality starts with political issues: As recently as 2016, 45 percent of 
@@ -11,6 +14,7 @@ Muslim (…he isn’t).</p>
 smarter than Einstein.</p>
 <p>Another why. Why do many people believe a wealthy person at all? Much less, believe them because 
 they have wealth?</p>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>What is Project 2025?</h2>
 <p>Who put these Trump ideas together? Heritage Foundation - king of liars & big corporate greed. 
