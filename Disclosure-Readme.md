@@ -3,18 +3,53 @@
 <!-- make graphs for ease of viewership -->
 <p><a href="https://www.project2025.observer/">Start Here</a></p>
 
-| Overall Progress |
-|-----|-----------|
-| 305 | Total |
-| 98  | Done |
-| 61  | In Progress |
-| 42% | Completed by Koch Brother's Project 2025 |
+<table>
+  <caption>
+    Overall Progress
+  </caption>
+  <thead>
+    <tr>
+      <th>305</th>
+      <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>98</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>42%</td>
+      <td>Completed by Koch Brother's Project 2025</td>
+    </tr>
+  </tbody>
+</table>
 
-| Time Until End of Term |
-|------|---------|
-| 1369 | Days    |
-| 20   | Hours   |
-| 38   | Minutes |
+<table>
+  <caption>
+    Time Until End of Term
+  </caption>
+  <thead>
+    <tr>
+      <th>1369</th>
+      <th>Days</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20</td>
+      <td>Hours</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>Minutes</td>
+    </tr>
+  </tbody>
+</table>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Progress by Each of 34 Agencies</h3>
