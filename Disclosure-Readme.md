@@ -2830,6 +2830,7 @@ Clarify that no employer is required to provide accommodations for abortion (e.g
 <h5>reproductive health</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=618
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
@@ -2841,6 +2842,7 @@ Issue an executive order "protecting religious employers and employees," clarify
 <h5>reproductive health</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=619
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
@@ -2850,6 +2852,8 @@ Mandate time-and-a-half compensation on a Sabbath.
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=622
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2858,6 +2862,8 @@ Lessen child labor regulations to allow "teenage workers" to work "inherently da
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=628
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2866,6 +2872,8 @@ Undermine union protections by allowing employer "councils" and favoring right-t
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=632
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2874,6 +2882,8 @@ Roll back definition of “protected concerted activity” that protects employe
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=634
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2882,6 +2892,8 @@ Rescind the "persuader rule" that required employers to disclose when they had h
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=635
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Labor - Dept. of Labor</h4>
@@ -2892,6 +2904,9 @@ Note: Federal Mediation & Conciliation Service (FMCS) will no longer assist with
 <h5>labor</h5>
 
 View Sources
+https://www.bloomberg.com/news/articles/2025-03-06/us-fmcs-to-stop-facilitating-card-check-for-union-recognition?embedded-checkout=true
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=636
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2900,6 +2915,8 @@ Eliminate the "contract bar rule" that prevents employers from union-busting and
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=636
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2908,6 +2925,8 @@ Outsource the administration of unemployment programs to “non-public organizat
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=638
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2917,6 +2936,8 @@ Prohibit employee retirement plans from investing based on ESG (environmental, s
 <h5>LGBTQIA</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=639
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Labor - Dept. of Labor</h4>
@@ -2925,6 +2946,9 @@ Let companies stop paying overtime and allow states to opt out of federal overti
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=625
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=638
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>State - Dept. of State</h4>
@@ -2935,6 +2959,9 @@ Note: (currently partially blocked by court order).
 <h5>aid</h5>
 
 View Sources
+https://www.nbcnews.com/politics/politics-news/marco-rubio-orders-halt-almost-us-foreign-aid-rcna189230
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=207
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>State - Dept. of State</h4>
@@ -2945,6 +2972,9 @@ Note: Trump went farther, suspending all refugee access (currently blocked by co
 <h5>immigration</h5>
 
 View Sources
+https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=211
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>State - Dept. of State</h4>
@@ -2953,6 +2983,8 @@ Withdraw from United Nations Educational, Scientific and Cultural Organization.
 <h5>aid</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=218
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Interior - Dept. of the Interior</h4>
@@ -2964,6 +2996,8 @@ Note: The Bureau of Land Management will amend managements plans in Wyoming and 
 <h5>environment</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=224
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Interior - Dept. of the Interior</h4>
@@ -2972,6 +3006,9 @@ Abandon withdrawals of lands from leasing in the Thompson Divide of the White Ri
 <h5>environment</h5>
 
 View Sources
+https://www.doi.gov/pressreleases/department-interior-moves-restore-coal-industry
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=556
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Interior - Dept. of the Interior</h4>
@@ -2980,6 +3017,8 @@ Reinstate Trump's limitations on the Endangered Species Act's definition of "cri
 <h5>environment</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=557
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Interior - Dept. of the Interior</h4>
@@ -2990,6 +3029,9 @@ Note: Trump reinstated his first administration's impact reviews of the project,
 <h5>environment</h5>
 
 View Sources
+https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=563
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Interior - Dept. of the Interior</h4>
@@ -2998,6 +3040,8 @@ Repeal of the Antiquities Act of 1906.
 <h5>environment</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=565
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Interior - Dept. of the Interior</h4>
@@ -3006,6 +3050,8 @@ Downsize national monuments.
 <h5>environment</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=565
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Interior - Dept. of the Interior</h4>
@@ -3014,6 +3060,8 @@ Delist the grizzly bear and gray wolf from the Endangered Species Act.
 <h5>environment</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=567
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Interior - Dept. of the Interior</h4>
@@ -3025,6 +3073,9 @@ Note: Transportation Dept. suspended funding from the national electric vehicle 
 <h5>environment</h5>
 
 View Sources
+https://archive.ph/l3zrO
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=570
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3033,6 +3084,8 @@ Enact a two-income tax bracket system (would raise taxes by $3,000 for the media
 <h5>taxes</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=729
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3041,6 +3094,8 @@ Reduce corporate income tax rate.
 <h5>taxes</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=729
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3049,6 +3104,8 @@ Reduce the estate and gift tax.
 <h5>taxes</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=730
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3058,6 +3115,8 @@ Limit employee benefits by setting a cap on untaxed benefits that employers can 
 <h5>labor</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=730
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3068,6 +3127,9 @@ Note: Trump withdrew from the OECD's global tax deal.
 <h5>economy</h5>
 
 View Sources
+https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=731
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Treasury - Dept. of the Treasury
@@ -3078,6 +3140,9 @@ Note: Trump is laying off 6,000 IRS employees.
 <h5>taxes</h5>
 
 View Sources
+https://abcnews.go.com/US/irs-layoffs-underway-country-millions-prepare-file-taxes/story?id=119015161
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=732
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3086,6 +3151,8 @@ Cease funding to and withdraw from the World Bank and International Monetary Fun
 <h5>aid</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=734
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3094,6 +3161,8 @@ Repeal key sections of Dodd-Frank.
 <h5>economy</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=738
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3103,6 +3172,8 @@ Wind down and privatize Fannie Mae and Freddie Mac.
 <h5>housing</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=739
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3114,6 +3185,9 @@ Note: Treasury announced it will not be enforcing the Act with respect to domest
 <h5>accountability</h5>
 
 View Sources
+https://archive.ph/g7Fdy
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=740
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3123,6 +3197,8 @@ Eliminate the Climate Hub office.
 <h5>environment</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=742
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Treasury - Dept. of the Treasury</h4>
@@ -3131,6 +3207,8 @@ Eliminate the U.S. Trade and Development Agency.
 <h5>reorganization</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=742
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Transportation - Dept. of Transportation</h4>
@@ -3139,6 +3217,8 @@ Shift DOT grants to the states to spend as they wish.
 <h5>transportation</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=654
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Transportation - Dept. of Transportation</h4>
@@ -3147,6 +3227,8 @@ Separate the Air Traffic Organization from the FAA.
 <h5>FAA</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=665
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Transportation - Dept. of Transportation</h4>
@@ -3157,6 +3239,9 @@ Note: Trump said on 2/6/25 that private companies will be building a new air tra
 <h5>FAA</h5>
 
 View Sources
+https://bsky.app/profile/atrupar.com/post/3lhjqtveqxc2x
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=666
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Transportation - Dept. of Transportation</h4>
@@ -3165,6 +3250,8 @@ Eliminate funding for the FTA’s Capital Investment Grants (CIG) program (helps
 <h5>transportation</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=668
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Transportation - Dept. of Transportation</h4>
@@ -3173,6 +3260,8 @@ Eliminate the two-person train crew safety regulations.
 <h5>transportation</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=670
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>VA - Dept. of Veterans Affairs</h4>
@@ -3181,6 +3270,8 @@ Prevent the VA from covering abortion services.
 <h5>reproductive health</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=677
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>VA - Dept. of Veterans Affairs</h4>
@@ -3189,6 +3280,8 @@ Outsource more care into private facilities.
 <h5>reorganization</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=681
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>VA - Dept. of Veterans Affairs</h4>
@@ -3197,6 +3290,8 @@ Increase automation in processing benefits claims.
 <h5>technology</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=682
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>VA - Dept. of Veterans Affairs</h4>
@@ -3205,6 +3300,8 @@ Reduce disability ratings for future claims, partially reduce for existing claim
 <h5>health</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=682
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>VA - Dept. of Veterans Affairs</h4>
@@ -3215,6 +3312,9 @@ Note: According to a leaked memo, the VA deactivated coursework on "Whistleblowe
 <h5>accountability</h5>
 
 View Sources
+https://x.com/kenklippenstein/status/1886483226564149676
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=686
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3225,6 +3325,9 @@ Note: Trump ordered EPA Secretary Zeldin to "immediately go back to" his first a
 <h5>energy</h5>
 
 View Sources
+https://archive.ph/cIe3b
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=412
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3233,6 +3336,8 @@ Eliminate the Office of Enforcement and Compliance Assistance.
 <h5>reorganization</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=454
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3241,6 +3346,8 @@ Eliminate the Office of Public Engagement and Environmental Education.
 <h5>reorganization</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=470
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3249,6 +3356,8 @@ Eliminate the Office of Children’s Health Protection.
 <h5>reorganization</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=454
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3259,6 +3368,9 @@ Note: The EPA is planning to eliminate the GHGRP.
 <h5>environment</h5>
 
 View Sources
+https://www.propublica.org/article/trump-epa-greenhouse-gas-reporting-climate-crisis
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=NaN
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3267,6 +3379,8 @@ Eliminate the use of Title 42 hiring authority.
 <h5>reorganization</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=470
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3275,6 +3389,9 @@ Repeal the Global Change Research Act of 1990.
 <h5>environment</h5>
 
 View Sources
+https://www.propublica.org/article/trump-epa-greenhouse-gas-reporting-climate-crisis
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=NaN
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FCC - Federal Communications Commission</h4>
@@ -3283,6 +3400,8 @@ Narrow scope of Section 230.
 <h5>technology</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=880
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FCC - Federal Communications Commission</h4>
@@ -3291,6 +3410,8 @@ Stop U.S. companies from "feeding, training, and improving" AI datasets belongin
 <h5>technology</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=885
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FCC - Federal Communications Commission</h4>
@@ -3299,6 +3420,8 @@ Expedite work to support low-earth orbit satellites like StarLink.
 <h5>technology</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=888
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FEC - Federal Election Commission</h4>
@@ -3307,6 +3430,8 @@ Limit campaign finance enforcement.
 <h5>elections</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=896
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FEC - Federal Election Commission</h4>
@@ -3315,6 +3440,8 @@ Raise contribution limits.
 <h5>elections</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=899
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Federal Reserve</h4>
@@ -3323,6 +3450,8 @@ Eliminate the Federal Reserve mission of full employment.
 <h5>economy</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=765
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Federal Reserve</h4>
@@ -3331,6 +3460,8 @@ Abolish the Federal Reserve and move to a "free banking" system.
 <h5>economy</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=769
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FTC - Federal Trade Commission</h4>
@@ -3340,6 +3471,8 @@ Consider if the FTC should enforce antitrust "or even continue to exist".
 <h5>accountability</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=905
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FTC - Federal Trade Commission</h4>
@@ -3349,6 +3482,8 @@ Outsource some of FTC's authorities to state attorneys general.
 <h5>accountability</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=909
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>FDA - Food and Drug Administration</h4>
@@ -3357,6 +3492,8 @@ Reverse FDA approval of mifepristone (abortion pill) OR ban telehealth prescript
 <h5>reproductive health</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=491
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Housing and Urban Development</h4>
@@ -3365,6 +3502,8 @@ End Property Appraisal and Valuation Equity (PAVE) programs, which are a set of 
 <h5>equality</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=541
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Housing and Urban Development</h4>
@@ -3373,6 +3512,8 @@ Eliminate Housing Supply Fund.
 <h5>housing</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=542
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Housing and Urban Development</h4>
@@ -3383,6 +3524,8 @@ Note: HUD has removed housing first policies from their website.
 <h5>housing</h5>
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=542
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Housing and Urban Development</h4>
@@ -3391,6 +3534,9 @@ Impose time limits for residents in tenant-based and project-based assistance pr
 housing
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=542
+
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>Housing and Urban Development</h4>
@@ -3402,6 +3548,8 @@ housing
 immigration
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=542
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Housing and Urban Development</h4>
