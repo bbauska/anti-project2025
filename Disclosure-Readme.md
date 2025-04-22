@@ -1500,8 +1500,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=499
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-CMS
-Centers for Medicare & Medicaid Services 
+<h4>CMS - Centers for Medicare & Medicaid Services</h4>
 Reduce federal incentives for states to expand Medicaid coverage.
 
 Medicaid
@@ -1511,8 +1510,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=500
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-CMS
-Centers for Medicare & Medicaid Services 
+<h4>CMS - Centers for Medicare & Medicaid Services</h4>
 Impose Medicaid work requirements.
 
 Medicaid
@@ -1522,8 +1520,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=500
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-CMS
-Centers for Medicare & Medicaid Services 
+<h4>CMS - Centers for Medicare & Medicaid Services</h4>
 Impose time-limits on how long low-income people can receive Medicaid in their lifetime.
 
 Medicaid
@@ -1533,8 +1530,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=501
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-CMS
-Centers for Medicare & Medicaid Services 
+<h4>CMS - Centers for Medicare & Medicaid Services</h4>
 Allow states to amend their Medicaid programs without waivers oversight.
 
 Medicaid
@@ -1544,8 +1540,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=501
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-CFPB
-Consumer Financial Protection Bureau 
+<h4>CFPB - Consumer Financial Protection Bureau</h4>
 Abolish the Consumer Protection Bureau.
 
 Note: All CFPB staff were ordered to halt work and communications (currently partially blocked by court order).
@@ -1558,8 +1553,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=872
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-CPB
-Corporation for Public Broadcasting 
+<h4>CPB - Corporation for Public Broadcasting</h4>
 Stop funding for NPR and PBS.
 
 Note: Trump's FCC ordered an investigation into the funding of NPR and PBS.
@@ -1572,8 +1566,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=279
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Remove the U.S. from any association with U.N. or other efforts to push sustainable food production.
 
 Note: Trump is ending funding to the UN World Food Program, part of the Sustainable Development Goals program.
@@ -1587,8 +1580,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=326
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Repeal the federal sugar program.
 
 food
@@ -1598,8 +1590,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=329
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Reduce the premium subsidy rate for crop insurance.
 
 food
@@ -1609,8 +1600,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=330
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Move the USDA food and nutrition programs (including SNAP) to HHS.
 
 welfare
@@ -1620,8 +1610,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=331
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Impose stricter work requirements on SNAP.
 
 welfare
@@ -1631,8 +1620,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=332
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 End broad-based categorical eligibility for SNAP.
 
 welfare
@@ -1642,8 +1630,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=333
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Weaken regulations on baby formula.
 
 food
@@ -1653,8 +1640,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=335
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Eliminate the Community Eligibility Provision.
 
 reorganization
@@ -1664,8 +1650,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=336
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Prohibit schools from grouping together to utilize the Community Eligibility Provision.
 
 welfare
@@ -1675,8 +1660,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=336
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Eliminate the Conservation Reserve Program.
 
 reorganization
@@ -1686,8 +1670,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=337
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Limit the USDA's ability to create permanent easements.
 
 environment
@@ -1697,8 +1680,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=338
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Repeal the federal mandate to label genetically engineered food.
 
 food
@@ -1708,8 +1690,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=340
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Repeal market development programs like the Market Access Program.
 
 trade
@@ -1719,8 +1700,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=340
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-USDA
-Dept. of Agriculture 
+<h4>USDA - Dept. of Agriculture</h4>
 Repeal, or, at minimum, reform the Dietary Guidelines .
 
 food
@@ -1730,8 +1710,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=342
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Commerce
-Dept. of Commerce 
+<h4>Commerce - Dept. of Commerce</h4>
 Tighten export control regulations.
 
 Note: Trump ordered the Commerce Secretary to "review the United States export control system and advise on modifications".
@@ -1744,8 +1723,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=704
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Commerce
-Dept. of Commerce 
+<h4>Commerce - Dept. of Commerce</h4>
 Break up the National Oceanic and Atmospheric Administration.
 
 Note: The administration is firing NOAA employees and closing NOAA offices.
@@ -1758,8 +1736,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=707
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Commerce
-Dept. of Commerce 
+<h4>Commerce - Dept. of Commerce</h4>
 "fully commercialize" the National Weather Service's forecasting operations.
 
 Note: Mass layoffs of NWS employees are the first step in privatization.
@@ -1772,8 +1749,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=708
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Commerce
-Dept. of Commerce 
+<h4>Commerce - Dept. of Commerce</h4>
 Lessen regulations that protect marine life.
 
 environment
@@ -1783,8 +1759,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=709
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Commerce
-Dept. of Commerce 
+<h4>Commerce - Dept. of Commerce</h4>
 Elevate the Office of Space Commerce.
 
 reorganization
@@ -1794,8 +1769,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=710
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Commerce
-Dept. of Commerce 
+<h4>Commerce - Dept. of Commerce</h4>
 Focus census outreach on "conservative groups".
 
 census
@@ -1805,8 +1779,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=713
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Commerce
-Dept. of Commerce 
+<h4>Commerce - Dept. of Commerce</h4>
 Add a citizenship question to the census.
 
 census
@@ -1816,8 +1789,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=713
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Defense
-Dept. of Defense 
+<h4>Defense - Dept. of Defense</h4>
 Increase defense burden-sharing with allies.
 
 Note: Trump said he will not defend NATO allies if they are not paying enough for defense.
@@ -1830,8 +1802,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=127
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Defense
-Dept. of Defense 
+<h4>Defense - Dept. of Defense</h4>
 Reduce U.S. force posture in Europe.
 
 Note: Trump reportedly aims to cut US force in Europe by 20,000.
@@ -1844,8 +1815,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=127
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Defense
-Dept. of Defense 
+<h4>Defense - Dept. of Defense</h4>
 End congressional review of arms transfers to foreign countries.
 
 defense
@@ -1855,8 +1825,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=134
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Defense
-Dept. of Defense 
+<h4>Defense - Dept. of Defense</h4>
 Require all schools that receive federal funding to give students the military entrance test.
 
 defense
@@ -1867,8 +1836,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=135
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Defense
-Dept. of Defense 
+<h4>Defense - Dept. of Defense</h4>
 Expel transgender people who are currently serving in the military.
 
 Note: (currently blocked by court order).
@@ -1881,8 +1849,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=136
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Defense
-Dept. of Defense 
+<h4>Defense - Dept. of Defense</h4>
 Remove Cybercom from the oversight of the National Security Agency.
 
 intel
@@ -1892,8 +1859,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=152
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Defense
-Dept. of Defense 
+<h4>Defense  - Dept. of Defense</h4>
 End Cybercom's participation in federal efforts to "fortify" U.S. elections.
 
 Note: Secretary Hegseth ordered Cyber Command "to stand down from all planning against Russia, including offensive digital actions".
@@ -1907,8 +1873,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=153
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Cut off federal funds to states, cities, counties, schools board, principals, and teachers who disagree with "parental rights".
 
 Note: Trump's executive order allows the Education Dept. to rescind funds from schools that affirm transgender and nonbinary students.
@@ -1921,8 +1886,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=38
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Ban "critical race theory" and "gender ideology" from public school curriculum.
 
 Note: Trump issued an executive order directing the Education Dept. to eliminate federal funding for schools promoting “indoctrination” based on “gender ideology and discriminatory equity ideology.”.
@@ -1936,8 +1900,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=38
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Transition Title 1 funding to "no-strings" block grants and eventually phase out the program entirely (Title 1 provides federal funding to schools serving low-income children).
 
 education
@@ -1947,8 +1910,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=358
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Convert Individuals with Disabilities Education Act funding to "no-strings" block grants.
 
 education
@@ -1958,8 +1920,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=359
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Rescind the Equity in IDEA (Individuals with Disabilities Education Act) regulations.
 
 civil rights
@@ -1969,8 +1930,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=369
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Roll back student loan forgiveness and income-driven repayment plans.
 
 student loans
@@ -1980,8 +1940,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=370
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Rescind the National Education Association’s congressional charter.
 
 labor
@@ -1991,8 +1950,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=375
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Ban critical race theory in schools that receive federal funding.
 
 Note: Trump issued an executive order directing the Education Dept. to eliminate federal funding for schools promoting “indoctrination” based on “gender ideology and discriminatory equity ideology.”.
@@ -2005,8 +1963,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=376
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Pass a federal "Parents' Bill of Rights".
 
 education
@@ -2016,8 +1973,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=377
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Amend the Family Educational Rights and Privacy Act and Protection of Pupil Rights Amendment to create a private right of action.
 
 education
@@ -2027,8 +1983,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=377
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Allow states to opt out of federal programs and instead use the funding for "any lawful education purpose".
 
 education
@@ -2038,8 +1993,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=384
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Terminate the Public Service Loan Forgiveness program.
 
 Note: Trump directed agencies to limit PSLF program based on ideology.
@@ -2052,8 +2006,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=387
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Cap the indirect cost rate paid to universities.
 
 Note: The National Institutes of Health announced a 15% cap on indirect funding to universities and research organizations (currently blocked by court order).
@@ -2065,8 +2018,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=386
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Eliminate the PLUS loan program.
 
 education
@@ -2077,8 +2029,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=388
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Eliminate the GEAR-UP program (provides low-income middle and high school students with academic assistance).
 
 education
@@ -2088,8 +2039,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=394
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Break up the Department of Education.
 
 Note: Trump signed an executive order directing the dismantling of the department.
@@ -2103,8 +2053,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=363
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Education
-Dept. of Education 
+<h4>Education - Dept. of Education</h4>
 Privatize the federal student loan portfolio.
 
 student loans
@@ -2115,8 +2064,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=386
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Repeal the Infrastructure Investment and Jobs Act (IIJA).
 
 Note: Trump signed an executive order indefinitely pausing the disbursement of funds (currently blocked by court order).
@@ -2129,8 +2077,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=398
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Repeal the Inflation Reduction Act.
 
 Note: Trump signed an executive order indefinitely pausing the disbursement of funds (currently blocked by court order).
@@ -2143,8 +2090,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=398
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Eliminate the Office of Clean Energy Demonstrations.
 
 reorganization
@@ -2154,8 +2100,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=402
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Eliminate the Office of State and Community Energy Programs.
 
 Note: The Energy Department is proposing to shut down its Office of Clean Energy Demonstrations.
@@ -2168,8 +2113,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=402
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Eliminate the Advanced Research Projects Agency–Energy agency.
 
 reorganization
@@ -2179,8 +2123,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=402
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Eliminate the Office of Grid Deployment.
 
 Note: Trump's administration has laid off employees at the Grid Deployment Office.
@@ -2193,8 +2136,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=402
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Eliminate the DOE Loan Program.
 
 reorganization
@@ -2204,8 +2146,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=402
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Eliminate carbon capture utilization and storage programs.
 
 environment
@@ -2215,8 +2156,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=409
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Eliminate the Office of Energy Efficiency and Renewable Energy or reduce its funding.
 
 reorganization
@@ -2226,8 +2166,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=412
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Restart the Yucca Mountain licensing process (to dispose of nuclear waste).
 
 nuclear
@@ -2238,8 +2177,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=430
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Reverse Biden-era decisions to retire parts of nuclear arsenal, reject Comprehensive Test Ban Treaty.
 
 nuclear
@@ -2249,8 +2187,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=432
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Limit subsidized renewables.
 
 Note: Trump administration is terminating grants for two clean energy projects; reviewing 300 others.
@@ -2264,8 +2201,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=434
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Energy
-Dept. of Energy 
+<h4>Energy - Dept. of Energy</h4>
 Expand natural gas infrastructure.
 
 environment
@@ -2275,8 +2211,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=435
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Prioritize traditional marriage in its messaging, health, and welfare policies.
 
 Note: While not at HHS, we are starting to see the beginnings of this policy in other agencies - the Transportation Dept. directed money to areas with high marriage and birth rates.
@@ -2290,8 +2225,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=484
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 End taxpayer funding of Planned Parenthood.
 
 Note: The administration is withholding tens of millions of dollars from Planned Parenthood clinics.
@@ -2303,8 +2237,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=494
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Withdraw funding, including 10% of Medicaid funds, from states that require private health insurance plans to cover abortion.
 
 reproductive health
@@ -2315,8 +2248,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=504
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Rescind guidance that requires hospitals to perform an abortion to save a woman's life under EMTALA.
 
 Note: The administration withdrew its defense of EMTALA in legal cases.
@@ -2328,8 +2260,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=505
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Rescind Medicare coverage for gender reassignment surgery.
 
 LGBTQIA
@@ -2340,8 +2271,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=506
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Increase breadth of Temporary Assistance for Needy Families work requirements.
 
 welfare
@@ -2351,8 +2281,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=507
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Revoke guidance that prohibited adoption/foster agencies from discriminating based on sexual orientation and gender identity.
 
 Note: Trump established the White House Faith Office to, in part, "promote foster care and adoption programs in partnership with faith-based entities".
@@ -2365,8 +2294,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=507
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Rescind policy of Office of Refugee Resettlement to provide abortion access for pregnant unaccompanied immigrant youth.
 
 reproductive health
@@ -2377,8 +2305,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=509
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Eliminate the Head Start program.
 
 Note: Reportedly still experiencing shut downs after the OMB memo freezing all federal funding.
@@ -2392,8 +2319,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=510
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Restore Trump-era religious and moral exemptions to ACA's contraception requirement.
 
 reproductive health
@@ -2403,8 +2329,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=511
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Eliminate ACA's requirement to cover the morning after pill.
 
 reproductive health
@@ -2415,8 +2340,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=515
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Fund in-home childcare instead of universal day care.
 
 childcare
@@ -2426,8 +2350,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=516
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Eliminate the HHS Reproductive Healthcare Access Task Force and install a pro-life task force.
 
 reproductive health
@@ -2437,8 +2360,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=518
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Prohibit family planning grants from going to entities that perform abortions or provide funding to other entities that perform abortions.
 
 reproductive health
@@ -2448,8 +2370,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=519
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Restore the Office of the Deputy Director for the Conscience and Religious Freedom Division.
 
 reproductive health
@@ -2459,8 +2380,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=522
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Withdraw Biden-era guidance that retail pharmacies must dispense abortion medication and contraception.
 
 Note: The administration is deleting this information from HHS websites.
@@ -2472,8 +2392,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=524
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-HHS
-Dept. of Health and Human Services 
+<h4>HHS - Dept. of Health and Human Services</h4>
 Withdraw Biden-era guidance that strengthened HIPAA protections for reproductive healthcare.
 
 Note: The administration is deleting this information from HHS websites.
@@ -2485,8 +2404,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=527
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Dismantle the Dept. of Homeland Security or, at least, combine ICE and CBP to form a "Border Security and Immigration Agency".
 
 immigration
@@ -2497,8 +2415,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=529
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Eliminate "most" of DHS's grant programs.
 
 Note: DHS Secretary Kristi Noem froze all grants to non-governmental organizations.
@@ -2511,8 +2428,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=530
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 "shift the majority" of FEMA's preparedness and response costs to states and localities.
 
 Note: Trump created a council to review FEMA's structure, after telling the media "FEMA should go away".
@@ -2525,8 +2441,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=168
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Privatize the FEMA National Flood Insurance Program.
 
 FEMA
@@ -2536,8 +2451,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=168
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Remove all unions in the Dept. of Homeland Security.
 
 personnel
@@ -2548,8 +2462,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=168
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Privatize TSA screening.
 
 Note: DHS ended TSA collective bargaining agreement.
@@ -2562,8 +2475,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=168
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Limit FEMA-issued grants to states that "comply with all aspects of federal immigration laws, including the honoring of all immigration detainers" and states/localities that give "total information-sharing" to federal law and immigration enforcement.
 
 Note: FEMA clawed back $80 million in previously approved migrant housing funds for New York.
@@ -2576,8 +2488,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=170
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Do not increase the number of H-2B (seasonal non-agricultural) visas.
 
 immigration
@@ -2587,8 +2498,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=171
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 CBP should restart and expand use of horseback-mounted Border Patrol.
 
 immigration
@@ -2598,8 +2508,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=172
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Eliminate T and U visas (given to noncitizen victims of trafficking and noncitizens who are victims of certain crimes and give helpful information to law enforcement).
 
 immigration
@@ -2609,8 +2518,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=174
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Eliminate or significantly reduce the number of visas issued to foreign students from "enemy nations".
 
 Note: Secretary of State Marco Rubio is revoking student visas for political speech.
@@ -2623,8 +2531,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=174
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Increase ICE funding for 100,000 detention beds.
 
 immigration
@@ -2634,8 +2541,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=176
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Repeal TPS designations.
 
 Note: Trump announced an end to TPS protections for hundreds of thousands of people (currently blocked by court order).
@@ -2649,8 +2555,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=178
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Revive Trump's public charge rule.
 
 immigration
@@ -2660,8 +2565,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=178
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Repeal the diversity lottery.
 
 immigration
@@ -2671,8 +2575,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=178
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 End chain migration.
 
 immigration
@@ -2682,8 +2585,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=178
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Create an "authority akin to the Title 42 Public Health authority" to expel illegal immigrants across the border immediately.
 
 Note: Trump officials have reportedly prepared plans "to swiftly expel migrants on the grounds that they could spread diseases like tuberculosis".
@@ -2696,8 +2598,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=180
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Repeal Section 235 of the TVPRA (which protects unaccompanied minors encountered near the border).
 
 immigration
@@ -2707,8 +2608,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=181
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 End the Flores Settlement Agreement (which sets basic standards of care for immigrant children in custody).
 
 immigration
@@ -2718,8 +2618,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=181
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Congress should require compliance with immigration detainers.
 
 immigration
@@ -2729,8 +2628,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=183
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Allow Secret Service officers to serve as law enforcement in the District of Columbia.
 
 Note: DHS ended TSA collective bargaining agreement.
@@ -2743,8 +2641,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=191
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DHS
-Dept. of Homeland Security 
+<h4>DHS - Dept. of Homeland Security</h4>
 Eliminate the DHS Office of Intelligence and Analysis.
 
 intel
@@ -2755,8 +2652,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=194
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 "classify educators and public librarians" who discuss "transgender ideology" with minors as "sex offenders.".
 
 LGBTQIA
@@ -2767,8 +2663,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=38
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Rescind AG Garland's policy that limited the Department's ability to subpoena journalists during leak investigations.
 
 intel
@@ -2778,8 +2673,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=247
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Eliminate the Office of General Counsel, Office of Congressional Affairs, and Office of Public Affairs within the FBI.
 
 reorganization
@@ -2789,8 +2683,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=584
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Prosecute local officials, including district attorneys, that use their discretion not to prosecute a criminal case.
 
 Note: DOJ leaders told U.S. attorneys to investigate law enforcement officials who decline to enforce Trump's immigration priorities.
@@ -2803,8 +2696,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=586
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Rigorously prosecute drug activity including "simple possession of distributable quantities".
 
 criminal justice
@@ -2814,8 +2706,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=588
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Reassign enforcement of voting rights from the Civil Rights Division to the Criminal Division.
 
 civil rights
@@ -2826,8 +2717,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=595
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Use "the full force of federal prosecutorial resources" to investigate and prosecute state and local gov'ts, institutes of higher ed, corporations, and private employers who have diversity initiatives.
 
 Note: (currently partially blocked by court order).
@@ -2840,8 +2730,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=595
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Enforce the Comstock Act.
 
 reproductive health
@@ -2851,8 +2740,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=595
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-DOJ
-Dept. of Justice 
+<h4>DOJ - Dept. of Justice</h4>
 Cut off DOJ grants to states/localities that do not cooperate with Trump's immigration plans.
 
 Note: The DOJ created a Sanctuary Cities Enforcement Working Group to identify state and local laws that clash with executive branch immigration initiatives.
@@ -2866,8 +2754,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=599
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Eliminate DEIA programs in Labor policy.
 
 Note: (currently partially blocked by court order).
@@ -2880,8 +2767,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=615
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Eliminate the Office of Federal Contract Compliance Programs (OFCCP).
 
 Note: "vast majority of employees" at the OFCCP put on leave.
@@ -2894,8 +2780,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=616
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Eliminate the Office of Federal Contract Compliance Programs.
 
 civil rights
@@ -2905,19 +2790,16 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=617
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Clarify that no employer is required to provide accommodations for abortion (e.g. under the Pregnancy Discrimination Act).
 
 reproductive health
 
 View Sources
 
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Issue an executive order "protecting religious employers and employees," clarify they may make employment decisions based on religion.
 
 civil rights
@@ -2925,10 +2807,10 @@ LGBTQIA
 reproductive health
 
 View Sources
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Mandate time-and-a-half compensation on a Sabbath.
 
 labor
@@ -2936,8 +2818,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Lessen child labor regulations to allow "teenage workers" to work "inherently dangerous jobs".
 
 labor
@@ -2945,8 +2826,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Undermine union protections by allowing employer "councils" and favoring right-to-work laws.
 
 labor
@@ -2954,8 +2834,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Roll back definition of “protected concerted activity” that protects employees from retaliation for union activity.
 
 labor
@@ -2963,8 +2842,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Rescind the "persuader rule" that required employers to disclose when they had hired union-busting consultants.
 
 labor
@@ -2972,8 +2850,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Discard “card check” as the basis of union recognition and mandate the secret ballot exclusively.
 
 Note: Federal Mediation & Conciliation Service (FMCS) will no longer assist with card check.
@@ -2983,8 +2860,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Eliminate the "contract bar rule" that prevents employers from union-busting and decertifying a union mid-contract.
 
 labor
@@ -2992,8 +2868,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Outsource the administration of unemployment programs to “non-public organizations”.
 
 labor
@@ -3001,8 +2876,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Prohibit employee retirement plans from investing based on ESG (environmental, social, and governance) factors.
 
 environment
@@ -3011,8 +2885,7 @@ LGBTQIA
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Labor
-Dept. of Labor 
+<h4>Labor - Dept. of Labor</h4>
 Let companies stop paying overtime and allow states to opt out of federal overtime and minimum wage laws.
 
 labor
@@ -3020,8 +2893,7 @@ labor
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-State
-Dept. of State 
+<h4>State - Dept. of State</h4>
 Freeze "allocation of resources, foreign aid disbursements," and "hiring and recruiting decisions".
 
 Note: (currently partially blocked by court order).
@@ -3031,8 +2903,7 @@ aid
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-State
-Dept. of State 
+<h4>State - Dept. of State</h4>
 Indefinitely curtail USRAP refugee admissions.
 
 Note: Trump went farther, suspending all refugee access (currently blocked by court order).
@@ -3042,8 +2913,7 @@ immigration
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-State
-Dept. of State 
+<h4>State - Dept. of State</h4>
 Withdraw from United Nations Educational, Scientific and Cultural Organization.
 
 aid
@@ -3051,8 +2921,7 @@ aid
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Interior
-Dept. of the Interior 
+<h4>Interior - Dept. of the Interior</h4>
 Work with the congressional delegations and governors of Wyoming and Montana to restart coal leasing program.
 
 Note: The Bureau of Land Management will amend managements plans in Wyoming and Montana to "create a path forward to access untapped federal coal reserves".
@@ -3063,8 +2932,7 @@ environment
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Interior
-Dept. of the Interior 
+<h4>Interior - Dept. of the Interior</h4>
 Abandon withdrawals of lands from leasing in the Thompson Divide of the White River National Forest, Colorado; the 10-mile buffer around Chaco Cultural Historic National Park in New Mexico; and the Boundary Waters area in northern Minnesota.
 
 environment
@@ -3072,8 +2940,7 @@ environment
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Interior
-Dept. of the Interior 
+<h4>Interior - Dept. of the Interior</h4>
 Reinstate Trump's limitations on the Endangered Species Act's definition of "critical habitat".
 
 environment
@@ -3081,8 +2948,7 @@ environment
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-Interior
-Dept. of the Interior 
+<h4>Interior - Dept. of the Interior</h4>
 Approve the Ambler Road Project (proposal for a 211-mile industrial access road and is intended to facilitate the development of at least four large-scale mines).
 
 Note: Trump reinstated his first administration's impact reviews of the project, which were more favorable than Biden's.
@@ -3092,8 +2958,7 @@ environment
 View Sources
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-Interior
-Dept. of the Interior 
+<h4>Interior - Dept. of the Interior</h4>
 Repeal of the Antiquities Act of 1906.
 
 environment
