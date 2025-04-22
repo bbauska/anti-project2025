@@ -3,15 +3,15 @@
 <!-- make graphs for ease of viewership -->
 <p><a href="https://www.project2025.observer/">Start Here</a></p>
 
-<h2>Overall Progress</h2>
-
+| Overall Progress |
+|-----|-----------|
 | 305 | Total |
 | 98  | Done |
 | 61  | In Progress |
 | 42% | Completed by Koch Brother's Project 2025 |
 
-Time Until End of Term 
-
+| Time Until End of Term |
+|------|---------|
 | 1369 | Days    |
 | 20   | Hours   |
 | 38   | Minutes |
@@ -22,104 +22,103 @@ Time Until End of Term
 <h4>CFTC - Commodity Futures Trading Commission - 1 objective.</h4>
 100% Complete.
 
-USAID - 6 objectives.
+<h4>USAID - 6 objectives.</h4>
 100% Complete.
 
-White House - 12 objectives.
+<h4>White House - 12 objectives.</h4>
 88% Complete.
 
-Dept of State - 9 objectives.
+<h4>Dept of State - 9 objectives.</h4>
 76%
 
-Personnel - 6 objectives.
+<h4>Personnel - 6 objectives.</h4>
 67%
 
-USAGM - US Agency for Globel Media - 3 objectives.
+<h4>USAGM - US Agency for Globel Media - 3 objectives.</h4>
 67%
 
-Dept. of Defense - 13 objectives.
+<h4>Dept. of Defense - 13 objectives.</h4>
 62%
 
-EPA - Environmental Protection Agency - 14 objectives.
+<h4>EPA - Environmental Protection Agency - 14 objectives.</h4>
 57%
 
-Dept. of Justice - 17 objectives.
+<h4>Dept. of Justice - 17 objectives.</h4>
 56%
 
-DFPB - Consumer Financial Protection Bureau - 1 objective.
+<h4>DFPB - Consumer Financial Protection Bureau - 1 objective.</h4>
 50%
 
-CPB - Corporations for Public Broadcastting - 1 objective.
+<h4>CPB - Corporations for Public Broadcastting - 1 objective.</h4>
 50%
 
-Dept. of the Interior - 13 objectives.
+<h4>Dept. of the Interior - 13 objectives.</h4>
 50%
 
-IC - Intelligence Community - 5 objectives.
+<h4>IC - Intelligence Community - 5 objectives.</h4>
 50%
 
-Dept. of Homeland Security - 34 objectives.
+<h4>Dept. of Homeland Security - 34 objectives.</h4>
 47%
 
-Dept. of Commerce - 10 objectives.
+<h4>Dept. of Commerce - 10 objectives.</h4>
 45%
 
-Dept. of Energy - 19 objectives.
+<h4>Dept. of Energy - 19 objectives.</h4>
 45%
 
-Dept. of Education - 23 objectives.
+<h4>Dept. of Education - 23 objectives.</h4>
 39%
 
-Dept. of Health and Huan Services - 20 objectives.
+<h4>Dept. of Health and Huan Services - 20 objectives.</h4>
 33%
 
-Dept. of the Treasury - 15 objectives.
+<h4>Dept. of the Treasury - 15 objectives.</h4>
 30%
 
-Housing and Urban Development - 7 objectives.
+<h4>Housing and Urban Development - 7 objectives.</h4>
 29%
 
-Dept. of Labor - 18 objectives.
+<h4>Dept. of Labor - 18 objectives.</h4>
 25%
 
-Dept. of Transportation - 6 objectives.
+<h4>Dept. of Transportation - 6 objectives.</h4>
 25%
 
-Securities and Exchange Commission - 4 objectives.
+<h4>Securities and Exchange Commission - 4 objectives.</h4>
 25%
 
-CDC - Centers for Disease Control and Prevention - 7 objectives.
+<h4>CDC - Centers for Disease Control and Prevention - 7 objectives.</h4>
 21%
 
-Dept. of Agriculture - 16 objectives.
+<h4>Dept. of Agriculture - 16 objectives.</h4>
 16%
 
-Dept. of Veterans Affairs - 5 objectives.
+<h4>Dept. of Veterans Affairs - 5 objectives.</h4>
 10%
 
-CMS - Centers for Medicare & Medicaid Services - 7 objectives.
+<h4>CMS - Centers for Medicare & Medicaid Services - 7 objectives.</h4>
 0%
 
-FCC - Federal Communications Commission - 3 objectives.
+<h4>FCC - Federal Communications Commission - 3 objectives.</h4>
 
-FEC - Federal Election Commission - 2 objectives.
+<h4>FEC - Federal Election Commission - 2 objectives.</h4>
 
-Federal Reserve - 2 objectives.
+<h4>Federal Reserve - 2 objectives.</h4>
 
-FTC - Federal Trade Commission - 2 objectives.
+<h4>FTC - Federal Trade Commission - 2 objectives.</h4>
 
-FDA - Food and Drug Administration - 1 objective.
+<h4>FDA - Food and Drug Administration - 1 objective.</h4>
 
-NH - National Institutes of Health - 1 objective.
+<h4>NH - National Institutes of Health - 1 objective.</h4>
 
-SBA - Small Business Administration - 2 objectives.
+<h4>SBA - Small Business Administration - 2 objectives.</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Project 2025 Tracker logo
 Project 2025 Tracker
 
-Detailed Project Objectives
-
+<h3>Detailed Project Objectives</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMPLETED
 Completed 4/11/2025
