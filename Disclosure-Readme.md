@@ -3558,6 +3558,8 @@ Limit FHA mortgages to first-time buyers and increase the FHA mortgage insurance
 housing
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=543
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>IC - Intelligence Community</h4>
@@ -3566,6 +3568,8 @@ Prohibit the IC from monitoring "so-called domestic disinformation".
 intel
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=249
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>IC - Intelligence Community</h4>
@@ -3576,6 +3580,9 @@ Note: Starting to be implemented in other departments: Musk's team wants an "AI-
 technology
 
 View Sources
+https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=257
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>IC - Intelligence Community</h4>
@@ -3584,6 +3591,8 @@ Re-negotiate intelligence sharing protocols with the EU.
 intel
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=258
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>NIH - National Institutes of Health</h4>
@@ -3592,6 +3601,8 @@ Prohibit stem cell research/use.
 health
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=494
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Personnel</h4>
@@ -3600,6 +3611,8 @@ Reinstate merit pay system for top tier federal government employees.
 personnel
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=107
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Personnel</h4>
@@ -3609,6 +3622,8 @@ NOT STARTED
 personnel
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=109
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Securities and Exchange Commission</h4>
@@ -3617,6 +3632,8 @@ Abolish the Financial Industry Regulatory Authority and Public Company Accountin
 economy
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=863
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Securities and Exchange Commission</h4>
@@ -3625,6 +3642,8 @@ Repeal Dodd-Frank mandated disclosures relating to conflict minerals, mine safet
 economy
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=865
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>Securities and Exchange Commission</h4>
@@ -3633,6 +3652,8 @@ Eliminate all administrative proceedings within the SEC.
 economy
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=866
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>SBA - Small Business Administration</h4>
@@ -3641,6 +3662,8 @@ End cash grants to small businesses (includes disaster aid).
 economy
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=783
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>SBA - Small Business Administration</h4>
@@ -3649,6 +3672,8 @@ Allow previously prohibited religious entities to receive SBA loans.
 economy
 
 View Sources
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=787
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 <h4>USAGM - U.S. Agency for Global Media</h4>
@@ -3659,11 +3684,13 @@ Note: Trump signed an executive order to eliminate the USAGM (currently blocked 
 media
 
 View Sources
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=275
 www.whitehouse.gov
 (opens in new tab)
 project2025.org, pg. 242
 (opens in new tab)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 USAGM
 U.S. Agency for Global Media 
@@ -3675,11 +3702,13 @@ media
 technology
 
 View Sources
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=275
 www.whitehouse.gov
 (opens in new tab)
 project2025.org, pg. 242
 (opens in new tab)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
 White House
 White House 
@@ -3690,11 +3719,13 @@ Note: The House passed a bill that would allow Congress to review multiple CRA e
 presidential power
 
 View Sources
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+https://archive.ph/Mu8gd
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=83
 archive.ph
 (opens in new tab)
 project2025.org, pg. 50
 (opens in new tab)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 White House
 White House 
@@ -3703,7 +3734,8 @@ Issue an executive order to reshape the U.S. Global Change Research Program.
 environment
 
 View Sources
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=92
 project2025.org, pg. 59
 (opens in new tab)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Support Transparency
