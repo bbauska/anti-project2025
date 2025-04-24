@@ -156,7 +156,6 @@ Project 2025 Tracker
 <h3>Detailed Project Objectives</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMPLETED - Completed 4/11/2025
-
 <h4>DHS - Dept. of Homeland Security</h4>
 Create a "single nationwide detention standard" that includes the "flexibility to use 
 large numbers of temporary facilities such as tents".
@@ -166,27 +165,23 @@ by a company called Deployed Resources.
 
 <h5>immigration</h5>
 
-View Sources
-https://www.propublica.org/article/trump-deportations-deployed-resources-tent-company?utm_source=bluesky&utm_medium=social&utm_campaign=propublica-bsky&utm_content=3
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=173
-
+<h4>View Sources</h4>
+<p><a href="https://www.propublica.org/article/trump-deportations-deployed-resources-tent-company?utm_source=bluesky&utm_medium=social&utm_campaign=propublica-bsky&utm_content=3">Immigration</a><br>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=173">Project 2025 immigration</a></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 4/8/2025
+COMPLETED - Completed 4/8/2025
 <h4>CFTC - Commodity Futures Trading Commission</h4>
-Reduce regulations on cryptocurrencies.
+<p>Reduce regulations on cryptocurrencies.</p>
 
-Note: DOJ instructed prosecutors to ease up on crypto enforcement.
+<p>Note: DOJ instructed prosecutors to ease up on crypto enforcement.</p>
 
 <h5>economy</h5>
 
-View Sources
-https://abcnews.go.com/Politics/trump-admin-tells-prosecutors-ease-crypto-enforcement/story?id=120589406
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=868
-
+<h4>View Sources</h4>
+<p><a href="https://abcnews.go.com/Politics/trump-admin-tells-prosecutors-ease-crypto-enforcement/story?id=120589406">CFTC</a><br>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=868">Economy</a></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 4/8/2025
+COMPLETED - Completed 4/8/2025
 <h4>Interior - Dept. of the Interior</h4>
 Lift the coal leasing moratorium by reinstating SO 3348.
 
@@ -198,8 +193,7 @@ https://www.doi.gov/pressreleases/department-interior-moves-restore-coal-industr
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=555
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 4/1/2025
+COMPLETED - Completed 4/1/2025
 <h4>USDA - Dept. of Agriculture</h4>
 Restrict the Low-Income Heat and Energy Assistance Program (LIHEAP).
 
@@ -212,8 +206,7 @@ https://www.cnn.com/2025/04/01/health/staff-cuts-at-federal-health-agencies-have
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=334
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/27/2025
+COMPLETED - Completed 3/27/2025
 <h4>Personnel - Weaken federal employee unions</h4>
 
 Note: Trump signed an executive order stripping collective bargaining rights from federal workers in 18 departments.
@@ -226,8 +219,7 @@ https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-tru
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=114
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/21/2025
+COMPLETED - Completed 3/21/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Eliminate the Office for Civil Rights and Civil Liberties.
 
@@ -239,8 +231,7 @@ https://www.nytimes.com/2025/03/21/us/politics/trump-civil-rights-homeland-secur
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=197
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/21/2025
+COMPLETED - Completed 3/21/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Eliminate the Office of Immigration Detention Ombudsman.
 
@@ -252,8 +243,7 @@ https://www.cbsnews.com/news/trump-administration-gutting-dhs-civil-rights-branc
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=198
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/21/2025
+COMPLETED - Completed 3/21/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Eliminate the Office of the Citizenship and Immigration Services Ombudsman.
 
@@ -265,8 +255,7 @@ https://www.cbsnews.com/news/trump-administration-gutting-dhs-civil-rights-branc
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=199
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/20/2025
+COMPLETED - Completed 3/20/2025
 <h4>Energy - Dept. of Energy</h4>
 Expand energy exploration and extraction in Alaska, open Nat'l Petroleum Reserve to leasing and development.
 
@@ -280,8 +269,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=423
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=557
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/12/2025
+COMPLETED - Completed 3/12/2025
 <h4>Education - Dept. of Education</h4>
 Cease investigating Title VI disparate impact cases.
 
@@ -294,8 +282,7 @@ https://www.propublica.org/article/education-department-civil-rights-division-er
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=368
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/12/2025
+COMPLETED - Completed 3/12/2025
 <h4>EPA - Environmental Protection Agency</h4>
 Roll back goal of haze reduction (visible air pollution).
 
@@ -306,8 +293,7 @@ https://www.epa.gov/newsreleases/administrator-zeldin-begins-restructuring-regio
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=457
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/12/2025
+COMPLETED - Completed 3/12/2025
 <h4>EPA - Environmental Protection Agency</h4>
 Institute a pause and review of all grants.
 
@@ -320,8 +306,7 @@ https://apnews.com/article/epa-green-bank-zeldin-climate-trump-5168d11b7f63aeaf7
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=477
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/4/2025
+COMPLETED - Completed 3/4/2025
 <h4>Commerce - Dept. of Commerce</h4>
 Abolish the Census Bureau National Advisory Committee on Racial, Ethnic, and Other Populations.
 
@@ -331,8 +316,7 @@ View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=715
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/4/2025
+COMPLETED - Completed 3/4/2025
 <h4>Commerce - Dept. of Commerce</h4>
 Abolish non-statutory standing committees within the Census Bureau, including the Census Scientific Advisory Committee.
 
@@ -343,8 +327,7 @@ https://apnews.com/article/census-bureau-commerce-department-howard-lutnick-3a56
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=715
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/4/2025
+COMPLETED - Completed 3/4/2025
 <h4>DOJ - Dept. of Justice</h4>
 DOJ should withdraw from lawsuits seeking to uphold EMTALA abortion requirements.
 
@@ -355,8 +338,7 @@ https://www.politico.com/news/2025/03/04/trump-emergency-abortions-00211399
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=507
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/3/2025
+COMPLETED - Completed 3/3/2025
 <h4>Housing and Urban Development</h4>
 Repeal the Affirmatively Furthering Fair Housing (AFFH), which requires HUD to actively address historical patterns of segregation.
 
@@ -367,8 +349,7 @@ https://www.hud.gov/news/hud-no-25-034
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=542
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 3/1/2025
+COMPLETED - Completed 3/1/2025
 <h4>USDA - Dept. of Agriculture</h4>
 Reinstate Trump's executive order to manage wildfires by reducing vegetation and increasing logging.
 
@@ -379,8 +360,7 @@ https://www.whitehouse.gov/presidential-actions/2025/03/immediate-expansion-of-a
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=341
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/28/2025
+COMPLETED - Completed 2/28/2025
 <h4>Interior - Dept. of the Interior</h4>
 Reinstate Trump's Migratory Bird Treaty Act (companies will not be punished for killing migratory birds).
 
@@ -393,8 +373,7 @@ https://www.washingtonpost.com/climate-environment/2025/03/10/migratory-bird-pro
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=575
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/28/2025
+COMPLETED - Completed 2/28/2025
 <h4>USAGM - U.S. Agency for Global Media</h4>
 Dismantle USAGM's journalism "firewall" to align its reporting with the aims of the president.
 
@@ -407,8 +386,7 @@ https://archive.ph/tkire
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=277
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/27/2025
+COMPLETED - Completed 2/27/2025
 <h4>Commerce - Dept. of Commerce</h4>
 "downsize" the Office of Oceanic and Atmospheric Research, which focuses too much on "climate alarmism".
 
@@ -422,8 +400,7 @@ https://www.axios.com/2025/02/27/layoffs-hit-noaa-national-weather-service
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=709
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/26/2025
+COMPLETED - Completed 2/26/2025
 <h4>CDC - Centers for Disease Control and Prevention</h4>
 End data collection on gender identity.
 
@@ -436,8 +413,7 @@ https://www.statnews.com/2025/02/25/cdc-will-no-longer-process-transgender-data/
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=489
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/18/2025
+COMPLETED - Completed 2/18/2025
 <h4>White House - White House</h4>
 Give political appointees the power to personally review and authorize appropriated funding.
 
@@ -450,8 +426,7 @@ https://www.npr.org/2025/02/16/nx-s1-5297844/trump-musk-democracy-usaid-authorit
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=78
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/18/2025
+COMPLETED - Completed 2/18/2025
 <h4>White House - White House</h4>
 Require regulatory analysis and OIRA review...of the historically “independent” agencies.
 
@@ -462,8 +437,7 @@ https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=NaN
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/14/2025
+COMPLETED - Completed 2/14/2025
 <h4>EPA - Environmental Protection Agency</h4>
 Downsize the department by terminating newest hires and relocating career employees to other agencies.
 
@@ -476,8 +450,7 @@ https://thehill.com/policy/energy-environment/5146618-epa-fires-employees-500-pr
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=455
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/11/2025
+COMPLETED - Completed 2/11/2025
 <h4>Securities and Exchange Commission</h4>
 Rescind the SEC's climate disclosure rule.
 
@@ -491,8 +464,7 @@ https://archive.ph/gdvLg
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=865
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/10/2025
+COMPLETED - Completed 2/10/2025
 <h4>Defense - Dept. of Defense</h4>
 Prohibit any funding for treatment for gender dysphoria for military members.
 
@@ -505,8 +477,7 @@ https://archive.ph/5zjwr
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=137
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/10/2025
+COMPLETED - Completed 2/10/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Terminate CISA's counter-mis/disinformation efforts.
 
@@ -520,8 +491,7 @@ https://archive.ph/0xFEW
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=188
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/8/2025
+COMPLETED - Completed 2/8/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Authorize state and local law enforcement to participate in immigration actions.
 
@@ -534,8 +504,7 @@ https://archive.ph/AkRwr
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=183
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/6/2025
+COMPLETED - Completed 2/6/2025
 <h4>EPA - Environmental Protection Agency</h4>
 Eliminate the Office of Environmental Justice and External Civil Rights.
 
@@ -546,8 +515,7 @@ https://archive.ph/Zg4iw
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=454
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/5/2025
+COMPLETED - Completed 2/5/2025
 <h4>State - Dept. of State</h4>
 Withdraw funding for United Nations Relief and Works Agency.
 
@@ -558,8 +526,7 @@ https://archive.ph/xGrx7
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=224
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/5/2025
+COMPLETED - Completed 2/5/2025
 <h4>USAID</h4>
 Prioritize funding for faith-based organizations.
 
@@ -572,8 +539,7 @@ https://archive.ph/hcsfg
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=298
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/3/2025
+COMPLETED - Completed 2/3/2025
 <h4>State - Dept. of State</h4>
 Withdraw from the United Nations Human Rights Council.
 
@@ -584,8 +550,7 @@ https://www.politico.com/news/2025/02/03/us-withdraw-un-human-rights-council-tru
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=224
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/3/2025
+COMPLETED - Completed 2/3/2025
 <h4>EPA - Environmental Protection Agency</h4>
 Stop all grants to "advocacy groups".
 
@@ -598,8 +563,7 @@ https://www.wastedive.com/news/federal-funding-pause-confusion-hits-environmenta
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=455
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/3/2025
+COMPLETED - Completed 2/3/2025
 <h4>USAID</h4>
 Cut budget of USAID.
 
@@ -612,8 +576,7 @@ https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=287
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/3/2025
+COMPLETED - Completed 2/3/2025
 <h4>USAID</h4>
 Rescind USAID policies that address climate change and help countries transition away from fossil fuels.
 
@@ -626,8 +589,7 @@ https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=290
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/3/2025
+COMPLETED - Completed 2/3/2025
 <h4>USAID</h4>
 Prohibit USAID from funding "sexual reproductive health and reproductive rights" and "gender equality" programs.
 
@@ -641,8 +603,7 @@ https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=292
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 2/3/2025
+COMPLETED - Completed 2/3/2025
 <h4>USAID</h4>
 Cut International Disaster Assistance funding for programs in Yemen, Syria, and Afghanistan.
 
@@ -655,8 +616,7 @@ https://www.npr.org/2025/02/03/nx-s1-5285409/usaid-trump-state-department-rubio
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=301
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/31/2025
+COMPLETED - Completed 1/31/2025
 <h4>Defense - Dept. of Defense</h4>
 Prohibit abortion travel funding.
 
@@ -667,8 +627,7 @@ https://www.nbcnews.com/politics/national-security/pentagon-ends-policy-funding-
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=504
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/31/2025
+COMPLETED - Completed 1/31/2025
 <h4>Education - Dept. of Education</h4>
 Rescind Biden-era Title IX rules that strengthened the ability to prosecute sexual assault and discrimination cases.
 
@@ -680,8 +639,7 @@ https://thehill.com/homenews/education/5118925-trump-biden-title-ix-education-ge
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=366
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/31/2025
+COMPLETED - Completed 1/31/2025
 <h4>White House - White House</h4>
 Remove the words "sexual orientation and gender identity," "diversity, equity, and inclusion," "abortion," "reproductive health," and "gender equality" from every federal rule, and agency regulation, that exists.
 
@@ -693,8 +651,7 @@ https://apnews.com/article/trump-gender-ideology-sex-pronouns-order-transgender-
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=37
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/29/2025
+COMPLETED - Completed 1/29/2025
 <h4>Education - Dept. of Education</h4>
 Expand school choice (i.e. public funding for private schools).
 
@@ -707,8 +664,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/expanding-educational-fr
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=383
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/29/2025
+COMPLETED - Completed 1/29/2025
 <h4>Transportation - Dept. of Transportation</h4>
 Reduce fuel economy requirements.
 
@@ -721,8 +677,7 @@ https://apnews.com/article/climate-trump-mpg-fuel-economy-standards-automakers-0
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=661
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/28/2025
+COMPLETED - Completed 1/28/2025
 <h4>Defense - Dept. of Defense</h4>
 Abolish DEI offices in the Defense Dept. and military.
 
@@ -733,8 +688,7 @@ https://www.npr.org/2025/01/28/nx-s1-5276839/trump-executive-order-dei-military
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=136
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/28/2025
+COMPLETED - Completed 1/28/2025
 <h4>HHS - Dept. of Health and Human Services</h4>
 Reverse prohibitions on healthcare discrimination based on gender identity.
 
@@ -747,8 +701,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=508
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/28/2025
+COMPLETED - Completed 1/28/2025
 <h4>Labor - Dept. of Labor</h4>
 Appoint new EEOC and NLRB general counsels.
 
@@ -762,8 +715,7 @@ https://www.nlrb.gov/news-outreach/news-story/statement-from-departing-nlrb-gene
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=648
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/27/2025
+COMPLETED - Completed 1/27/2025
 <h4>Defense - Dept. of Defense</h4>
 Reinstate service members who were fired due to their refusal to comply with COVID-19 vaccine mandate.
 
@@ -774,8 +726,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/reinstating-service-memb
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=136
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/27/2025
+COMPLETED - Completed 1/27/2025
 <h4>HHS - Dept. of Health and Human Services</h4>
 Reverse prohibitions on healthcare discrimination based on pregnancy (to cover abortion).
 
@@ -788,8 +739,7 @@ https://archive.ph/cBbWv
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=508
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/25/2025
+COMPLETED - Completed 1/25/2025
 <h4>USAID</h4>
 Eliminate Chief Diversity Officer at USAID, remove DEI requirements, eliminate funding for partners that promote "discriminatory DEI practices".
 
@@ -800,8 +750,7 @@ https://www.devex.com/news/scoop-usaid-issues-staff-guidance-on-deia-foreign-aid
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=291
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/24/2025
+COMPLETED - Completed 1/24/2025
 <h4>Energy - Dept. of Energy</h4>
 Eliminate considerations of upstream and downstream greenhouse gas emissions.
 
@@ -812,8 +761,7 @@ https://www.akingump.com/en/insights/alerts/ferc-formally-axes-its-draft-policy-
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=439
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/24/2025
+COMPLETED - Completed 1/24/2025
 <h4>HHS - Dept. of Health and Human Services</h4>
 Enforce the Hyde amendment (banning any federal funds from being used for abortions, abortion counseling, etc.).
 
@@ -824,8 +772,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/enforcing-the-hyde-amend
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=504
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/24/2025
+COMPLETED - Completed 1/24/2025
 <h4>DOJ - Dept. of Justice</h4>
 Avoid "politically motivated prosecutions" like of people who violate the FACE Act.
 
@@ -839,8 +786,7 @@ https://www.cbsnews.com/news/trump-face-act-abortion-related-actions-justice-dep
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=591
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/24/2025
+COMPLETED - Completed 1/24/2025
 <h4>Labor - Dept. of Labor</h4>
 Rescind Executive Order 11246 - Equal Opportunity Employment.
 
@@ -851,8 +797,7 @@ https://www.dol.gov/newsroom/releases/osec/osec20250124
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=617
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/24/2025
+COMPLETED - Completed 1/24/2025
 <h4>State - Dept. of State</h4>
 Prohibit the flying of "Divisive symbols such as the rainbow flag or the Black Lives Matter flag" at U.S. embassies.
 
@@ -863,8 +808,7 @@ https://archive.ph/EscQG
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=122
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/24/2025
+COMPLETED - Completed 1/24/2025
 <h4>State - Dept. of State</h4>
 Reinstate the Mexico City policy banning aid to groups that even communicate about abortion services.
 
@@ -876,8 +820,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-for-the-secre
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=294
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/23/2025
+COMPLETED - Completed 1/23/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Increase use of civil search warrants for workplace raids.
 
@@ -888,8 +831,7 @@ https://www.upi.com/Top_News/US/2025/01/23/ice-details-538-ion-workplace-raids/7
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=175
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/22/2025
+COMPLETED - Completed 1/22/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 DHS Secretary should "quickly remove all current members" of the Homeland Security Advisory Committee and replace them.
 
@@ -902,8 +844,7 @@ https://www.cbsnews.com/news/dhs-terminates-all-advisory-committees-ends-investi
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=171
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/22/2025
+COMPLETED - Completed 1/22/2025
 <h4>DOJ - Dept. of Justice</h4>
 Eliminate all existing DOJ consent decrees.
 
@@ -915,8 +856,7 @@ https://www.cnn.com/2025/01/22/politics/justice-department-trump-police-reform-a
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=591
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/22/2025
+COMPLETED - Completed 1/22/2025
 <h4>EPA - Environmental Protection Agency</h4>
 Undermine California waiver re:reducing pollution from vehicles.
 
@@ -929,8 +869,7 @@ https://www.eenews.net/articles/trump-executive-order-targets-california-electri
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=459
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/22/2025
+COMPLETED - Completed 1/22/2025
 <h4>White House - White House</h4>
 Clear out the NSC, replace "all essential detailees with staff aligned to the new President's priorities".
 
@@ -943,8 +882,7 @@ https://www.washingtonpost.com/national-security/2025/01/22/trump-waltz-national
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=85
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/21/2025
+COMPLETED  - Completed 1/21/2025
 <h4>Energy - Dept. of Energy</h4>
 Eliminate the Office of Fossil Energy and Carbon Management or redirect it to increasing fossil fuel use.
 
@@ -955,8 +893,7 @@ https://www.energy.gov/articles/us-department-energy-reverses-biden-lng-pause-re
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=410
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/21/2025
+COMPLETED - Completed 1/21/2025
 <h4>DOJ - Dept. of Justice</h4>
 Issue guidance to all U.S. Attorneys "emphasizing the importance of prosecuting immigration offenses".
 
@@ -967,8 +904,7 @@ https://immpolicytracking.org/policies/doj-memo-creates-new-prosecutorial-discre
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=600
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/21/2025
+COMPLETED - Completed 1/21/2025
 <h4>IC - Intelligence Community</h4>
 "prioritize security clearance reform" by streamlining the clearance process.
 
@@ -981,8 +917,7 @@ https://www.project2025.observer/
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=240
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/21/2025
+COMPLETED - Completed 1/21/2025
 <h4>White House - White House</h4>
 Give the Office of Personnel Management (White House) the responsibility to conduct security clearance investigations.
 
@@ -993,8 +928,7 @@ https://www.cnn.com/2025/01/21/politics/trump-temporary-security-clearances/inde
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=140
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Defense - Dept. of Defense</h4>
 Direct the military to assist in building border wall.
 
@@ -1005,8 +939,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-eme
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=199
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Defense - Dept. of Defense</h4>
 Deploy active-duty personnel and National Guardsmen to the border.
 
@@ -1017,8 +950,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-eme
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=588
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Education - Dept. of Education</h4>
 Rescind Biden-era guidance that added a "non-binary" option in civil rights data collected from schools.
 
@@ -1032,8 +964,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gen
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=365
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Education - Dept. of Education</h4>
 Abandon the redefinition of "sex" to “sexual orientation and gender identity” in Title IX.
 
@@ -1045,8 +976,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gen
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=366
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Education - Dept. of Education</h4>
 Issue rules and guidance that that “sex” is properly understood as a fixed biological fact.
 
@@ -1058,8 +988,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gen
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=367
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Energy - Dept. of Energy</h4>
 Focus energy policy on critical minerals.
 
@@ -1070,8 +999,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=409
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Energy - Dept. of Energy</h4>
 Eliminate the Clean Energy Corps (funded by the IIJA).
 
@@ -1084,8 +1012,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=419
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Energy - Dept. of Energy</h4>
 Ensure liquified natural gas export applications are "approved expeditiously," without consideration of climate change.
 
@@ -1097,8 +1024,7 @@ https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=410
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=441
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 ICE should be required to "take custody of all aliens with records for felonies...DUIs...and any other crime that is considered a national security or public safety threat".
 
@@ -1109,8 +1035,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=174
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Raise the standard for a credible fear of persecution for asylum.
 
@@ -1123,8 +1048,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=181
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Reinstate Remain in Mexico.
 
@@ -1135,8 +1059,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=182
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DHS - Dept. of Homeland Security</h4>
 Dismiss "the entirety" of the CISA Cybersecurity Advisory Committee.
 
@@ -1149,8 +1072,7 @@ https://www.documentcloud.org/documents/25500093-dhs-advisory-boards-termination
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=188
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DOJ - Dept. of Justice</h4>
 Prohibit the U.S. government from combating the spread of misinformation and disinformation.
 
@@ -1161,8 +1083,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-spe
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=583
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DOJ - Dept. of Justice</h4>
 Pursue the death penalty for all applicable crimes.
 
@@ -1173,8 +1094,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-pena
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=587
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DOJ - Dept. of Justice</h4>
 Immediately end "any policies, investigations, or cases that run contrary to...administration policies," including the "brazenly partisan and ideologically driven prosecution of...perceived political enemies".
 
@@ -1185,8 +1105,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=590
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>DOJ - Dept. of Justice</h4>
 Ensure "appropriate steps" are taken to obtain cooperation with sanctuary cities and states.
 
@@ -1197,8 +1116,7 @@ https://iptp-production.s3.amazonaws.com/media/documents/2025.02.05_AG_Memo_Sanc
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=600
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>State - Dept. of State</h4>
 Suspend all visas to people from countries that do not accept the return of immigrants ordered deported.
 
@@ -1209,8 +1127,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=210
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>State - Dept. of State</h4>
 Withdraw funding for the World Health Organization.
 
@@ -1221,8 +1138,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-s
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=224
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Interior - Dept. of the Interior</h4>
 Immediately rollback Biden's executive orders that prioritized addressing climate change.
 
@@ -1233,8 +1149,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=554
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Interior - Dept. of the Interior</h4>
 Revoke rules regarding predator control and bear baiting.
 
@@ -1245,8 +1160,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extra
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=564
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Interior - Dept. of the Interior</h4>
 Vacate Biden-era order protecting 30 percent of U.S. land and water by 2030.
 
@@ -1259,8 +1173,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=565
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Treasury - Dept. of the Treasury</h4>
 Close the Office of Equity, Diversity, and Inclusion; treat the participation in any DEI initiative as per se grounds for termination.
 
@@ -1271,8 +1184,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-eco
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=734
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Treasury - Dept. of the Treasury</h4>
 Withdraw from the Paris agreement and United Nations Framework Convention on Climate Change.
 
@@ -1283,8 +1195,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=742
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Treasury - Dept. of the Treasury</h4>
 Reverse support for consideration of environmental, social, and governance principles.
 
@@ -1297,8 +1208,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=742
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>EPA - Environmental Protection Agency</h4>
 Eliminate the use of the social cost of carbon.
 
@@ -1309,8 +1219,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=469
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>IC - Intelligence Community</h4>
 Revoke the security clearances of senior intelligence officials who leak information.
 
@@ -1323,8 +1232,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-governmen
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=246
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Personnel</h4>
 Rescind Biden's Executive Order 14003, which revoked Trump's Schedule F order.
 
@@ -1335,8 +1243,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-h
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=106
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Personnel</h4>
 Institute a hiring freeze.
 
@@ -1347,8 +1254,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=111
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>Personnel</h4>
 Reschedule thousands of federal civil service workers, making it easier to fire career civil servants (Schedule F).
 
@@ -1359,8 +1265,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=113
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>White House - White House</h4>
 Cut off government contracts to entities that enforce a "woke agenda".
 
@@ -1372,8 +1277,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-waste
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=81
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>White House - White House</h4>
 Instruct the CEQ to rewrite its regulations implementing NEPA.
 
@@ -1386,8 +1290,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=93
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>White House - White House</h4>
 Eliminate the Interagency Working Group on the Social Cost of Carbon.
 
@@ -1400,8 +1303,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=94
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>White House - White House</h4>
 Issue an executive order abolishing the Office of Domestic Climate Policy.
 
@@ -1414,8 +1316,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-ener
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=94
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 1/20/2025
+COMPLETED - Completed 1/20/2025
 <h4>White House - White House</h4>
 Revoke EO 14020, which established the Gender Policy Council.
 
@@ -1426,8 +1327,7 @@ https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-h
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=95
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED
-Completed 12/30/2024
+COMPLETED - Completed 12/30/2024
 <h4>Labor - Dept. of Labor</h4>
 Return to Trump-era overtime exemption threshold.
 
@@ -3325,9 +3225,9 @@ Note: Trump ordered EPA Secretary Zeldin to "immediately go back to" his first a
 <h5>energy</h5>
 
 View Sources
-https://archive.ph/cIe3b
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=412
-
+<p><a href="https://archive.ph/cIe3b">EPA Eleminate energy efficiency standards for appliances.</a><br>
+Seriously, What the Fuck?</p>
+<p><a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=412">2025 Drumpf/Project</a></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>EPA - Environmental Protection Agency</h4>
@@ -3335,18 +3235,17 @@ Eliminate the Office of Enforcement and Compliance Assistance.
 
 <h5>reorganization</h5>
 
-View Sources
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=454
-
+<h4>View Sources</h4>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=454">Eliminate the Office of Enforcement and Compliance Assistance.</a></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>EPA - Environmental Protection Agency</h4>
-Eliminate the Office of Public Engagement and Environmental Education.
+<p>Eliminate the Office of Public Engagement and Environmental Education.</p>
 
 <h5>reorganization</h5>
 
-View Sources
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=470
+<h4>View Sources</h4>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=470">EPA Eliminate the Office of Public Engagement and Environmental Education.</a></p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
@@ -3531,7 +3430,7 @@ NOT STARTED
 <h4>Housing and Urban Development</h4>
 Impose time limits for residents in tenant-based and project-based assistance programs.
 
-housing
+<h5>housing</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=542
@@ -3544,8 +3443,8 @@ Ban mixed-status families (U.S. citizens and noncitizens) from living in all fed
 
 Note: The administration is reportedly working on a rule to ban mixed-status families from public housing.
 
-housing
-immigration
+<h5>housing</h5>
+<h5>immigration</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=542
@@ -3555,7 +3454,7 @@ NOT STARTED
 <h4>Housing and Urban Development</h4>
 Limit FHA mortgages to first-time buyers and increase the FHA mortgage insurance premium for all products above 20-year terms.
 
-housing
+<h5>housing</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=543
@@ -3565,7 +3464,7 @@ NOT STARTED
 <h4>IC - Intelligence Community</h4>
 Prohibit the IC from monitoring "so-called domestic disinformation".
 
-intel
+<h5>intel</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=249
@@ -3577,7 +3476,7 @@ Transition to using artificial intelligence to analyze information.
 
 Note: Starting to be implemented in other departments: Musk's team wants an "AI-first" approach through all of government.
 
-technology
+<h5>technology</h5>
 
 View Sources
 https://www.wired.com/story/elon-musk-lieutenant-gsa-ai-agency/
@@ -3588,7 +3487,7 @@ NOT STARTED
 <h4>IC - Intelligence Community</h4>
 Re-negotiate intelligence sharing protocols with the EU.
 
-intel
+<h5>intel</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=258
@@ -3598,7 +3497,7 @@ NOT STARTED
 <h4>NIH - National Institutes of Health</h4>
 Prohibit stem cell research/use.
 
-health
+<h5>health</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=494
@@ -3608,7 +3507,7 @@ NOT STARTED
 <h4>Personnel</h4>
 Reinstate merit pay system for top tier federal government employees.
 
-personnel
+<h5>personnel</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=107
@@ -3619,7 +3518,7 @@ NOT STARTED
 
 - Reduce federal employees' pay and benefits
 
-personnel
+<h5>personnel</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=109
@@ -3629,7 +3528,7 @@ NOT STARTED
 <h4>Securities and Exchange Commission</h4>
 Abolish the Financial Industry Regulatory Authority and Public Company Accounting Oversight Board.
 
-economy
+<h5>economy</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=863
@@ -3639,7 +3538,7 @@ NOT STARTED
 <h4>Securities and Exchange Commission</h4>
 Repeal Dodd-Frank mandated disclosures relating to conflict minerals, mine safety, resource extraction, and CEO pay ratios.
 
-economy
+<h5>economy</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=865
@@ -3649,7 +3548,7 @@ NOT STARTED
 <h4>Securities and Exchange Commission</h4>
 Eliminate all administrative proceedings within the SEC.
 
-economy
+<h5>economy</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=866
@@ -3659,7 +3558,7 @@ NOT STARTED
 <h4>SBA - Small Business Administration</h4>
 End cash grants to small businesses (includes disaster aid).
 
-economy
+<h5>economy</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=783
@@ -3669,7 +3568,7 @@ NOT STARTED
 <h4>SBA - Small Business Administration</h4>
 Allow previously prohibited religious entities to receive SBA loans.
 
-economy
+<h5>economy</h5>
 
 View Sources
 https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=787
@@ -3681,7 +3580,7 @@ Cut budget of USAGM.
 
 Note: Trump signed an executive order to eliminate the USAGM (currently blocked by court order).
 
-media
+<h5>media</h5>
 
 View Sources
 https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/
@@ -3697,8 +3596,8 @@ Stop funding of the Open Technology Fund.
 
 Note: Accomplished by eliminating USAGM (currently blocked by court order).
 
-media
-technology
+<h5>media</h5>
+<h5>technology</h5>
 
 View Sources
 https://www.whitehouse.gov/presidential-actions/2025/03/continuing-the-reduction-of-the-federal-bureaucracy/
@@ -3714,7 +3613,7 @@ Use the Congressional Review Act to undo Biden-era final rulemakings.
 
 Note: The House passed a bill that would allow Congress to review multiple CRA eligible final rules in a single joint resolution of disapproval.
 
-presidential power
+<h5>presidential power</h5>
 
 View Sources
 https://archive.ph/Mu8gd
@@ -3726,12 +3625,13 @@ project2025.org, pg. 50
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
 <h4>White House - White House</h4>
-Issue an executive order to reshape the U.S. Global Change Research Program.
+<p>Issue an executive order to reshape the U.S. Global Change Research Program.</p>
 
-environment
+<h5>environment</h5>
 
-View Sources
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=92
+<h4>View Sources</h4>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=92">White House - Issue an executive order to reshape the U.S. Global Change Research Program.</a></p>
+
 project2025.org, pg. 59
 (opens in new tab)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
