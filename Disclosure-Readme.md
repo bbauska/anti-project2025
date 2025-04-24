@@ -3692,8 +3692,7 @@ project2025.org, pg. 242
 (opens in new tab)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-USAGM
-U.S. Agency for Global Media 
+<h4>USAGM - U.S. Agency for Global Media</h4>
 Stop funding of the Open Technology Fund.
 
 Note: Accomplished by eliminating USAGM (currently blocked by court order).
@@ -3710,8 +3709,7 @@ project2025.org, pg. 242
 (opens in new tab)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 IN PROGRESS
-White House
-White House 
+<h4>White House - White House</h4>
 Use the Congressional Review Act to undo Biden-era final rulemakings.
 
 Note: The House passed a bill that would allow Congress to review multiple CRA eligible final rules in a single joint resolution of disapproval.
@@ -3727,8 +3725,7 @@ project2025.org, pg. 50
 (opens in new tab)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 NOT STARTED
-White House
-White House 
+<h4>White House - White House</h4>
 Issue an executive order to reshape the U.S. Global Change Research Program.
 
 environment
