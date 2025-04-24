@@ -1,25 +1,35 @@
-<h1>Project 2025 Tracker</h1>
+<h1>Anti-Project 2025 Tracker</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ Disclosure-Readme.md for anti-project2025.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- 3009 as of 4/21/2025 -->
 <!-- make graphs for ease of viewership -->
 <p><a href="https://www.project2025.observer/">Start Here</a></p>
-
+<!--
+What is Project 2025?
+Project 2025 is a federal policy agenda and blueprint for a radical restructuring of the executive branch authored and published by former Trump administration officials in partnership with The Heritage Foundation, a longstanding conservative think tank that opposes abortion and reproductive rights, LGBTQ rights, immigrants’ rights, and racial equity. Project 2025’s largest publication, “Mandate For Leadership,” is a 900-page manual for reorganizing the entire federal government agency by agency to serve a conservative agenda.
+-->
+<!-- Proof positive; It's easier to tear things down than build them up. -->
+<!--
+It is a 900-page policy wish list, a set of proposals that would expand presidential power and impose an ultra-conservative social vision.
+-->
 <table>
   <caption>
     Overall Progress
   </caption>
   <thead>
     <tr>
-      <th>305</th>
+      <th>312</th>
       <th>Total</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>98</td>
+      <td>97</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>61</td>
+      <td>62</td>
       <td>In Progress</td>
     </tr>
     <tr>
@@ -35,7 +45,7 @@
   </caption>
   <thead>
     <tr>
-      <th>1369</th>
+      <th>1366</th>
       <th>Days</th>
     </tr>
   </thead>
@@ -50,7 +60,7 @@
     </tr>
   </tbody>
 </table>
-
+<h4>Give or take 50 years</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Progress by Each of 34 Agencies</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -69,7 +79,7 @@
 <h4>Personnel - 6 objectives.</h4>
 67%
 
-<h4>USAGM - US Agency for Globel Media - 3 objectives.</h4>
+<h4>USAGM - US Agency for Global Media - 3 objectives.</h4>
 67%
 
 <h4>Dept. of Defense - 13 objectives.</h4>
@@ -156,7 +166,7 @@ Project 2025 Tracker
 <h3>Detailed Project Objectives</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMPLETED - Completed 4/11/2025
-<h4>DHS - Dept. of Homeland Security</h4>
+<h4><a href="https://www.dhs.gov/">DHS - Dept. of Homeland Security</a></h4>
 Create a "single nationwide detention standard" that includes the "flexibility to use 
 large numbers of temporary facilities such as tents".
 
@@ -167,7 +177,7 @@ by a company called Deployed Resources.
 
 <h4>View Sources</h4>
 <p><a href="https://www.propublica.org/article/trump-deportations-deployed-resources-tent-company?utm_source=bluesky&utm_medium=social&utm_campaign=propublica-bsky&utm_content=3">Immigration</a><br>
-<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=173">Project 2025 immigration</a></p>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=173">Ass-kissers with 2025 Immigration</a></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMPLETED - Completed 4/8/2025
 <h4>CFTC - Commodity Futures Trading Commission</h4>
@@ -179,31 +189,31 @@ COMPLETED - Completed 4/8/2025
 
 <h4>View Sources</h4>
 <p><a href="https://abcnews.go.com/Politics/trump-admin-tells-prosecutors-ease-crypto-enforcement/story?id=120589406">CFTC</a><br>
-<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=868">Economy</a></p>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=868">Fuck-Nuts at 2025</a></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMPLETED - Completed 4/8/2025
-<h4>Interior - Dept. of the Interior</h4>
-Lift the coal leasing moratorium by reinstating SO 3348.
+<h3>COMPLETED - Completed 4/8/2025</h3>
+<h4><a href="https://www.doi.gov/">Interior - Dept. of the Interior</a></h4>
+<h5>Lift the coal leasing moratorium by reinstating SO 3348.</h5>
 
 <h5>energy</h5>
 <h5>environment</h5>
 
-View Sources
-https://www.doi.gov/pressreleases/department-interior-moves-restore-coal-industry
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=555
+<h4>View Sources</h4>
+<a href="https://www.doi.gov/pressreleases/department-interior-moves-restore-coal-industry">Dept of Interior Moves to Restore Coal Industry</a>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=555">Project 2025 Assholes in total</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMPLETED - Completed 4/1/2025
-<h4>USDA - Dept. of Agriculture</h4>
-Restrict the Low-Income Heat and Energy Assistance Program (LIHEAP).
+<h4><a href="https://www.usda.gov/">USDA - Dept. of Agriculture</a></h4>
+<h5>Restrict the Low-Income Heat and Energy Assistance Program (LIHEAP).</h5>
 
-Note: All staff at LIHEAP fired.
+<h6>Note: All staff at LIHEAP fired.</h6>
 
 <h5>welfare</h5>
 
-View Sources
-https://www.cnn.com/2025/04/01/health/staff-cuts-at-federal-health-agencies-have-begun/index.html
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=334
+<h4>View Sources</h4>
+<a href="https://www.cnn.com/2025/04/01/health/staff-cuts-at-federal-health-agencies-have-begun/index.html">Staff Custs at Federal Health Agencies</a>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=334">Project 2025 Deutsche-Bags</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMPLETED - Completed 3/27/2025
@@ -215,12 +225,12 @@ Note: Trump signed an executive order stripping collective bargaining rights fro
 <h5>unions</h5>
 
 View Sources
-https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/
-https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=114
+<a href="https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/">No more rights for employees</a>
+<a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf#page=114">Cock Lickers at P2025</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMPLETED - Completed 3/21/2025
-<h4>DHS - Dept. of Homeland Security</h4>
+<h4><a href="https://www.dhs.gov/">DHS - Dept. of Homeland Security</a></h4>
 Eliminate the Office for Civil Rights and Civil Liberties.
 
 <h5>civil rights</h5>
