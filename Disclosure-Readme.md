@@ -1,6 +1,6 @@
 <h1>Anti-Project 2025 Tracker</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ Disclosure-Readme.md for anti-project2025.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ Disclosure-Readme.md for anti-project2025.bauska.org ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- 3009 as of 4/21/2025 -->
 <!-- make graphs for ease of viewership -->
@@ -12,6 +12,10 @@ Project 2025 is a federal policy agenda and blueprint for a radical restructurin
 <!-- Proof positive; It's easier to tear things down than build them up. -->
 <!--
 It is a 900-page policy wish list, a set of proposals that would expand presidential power and impose an ultra-conservative social vision.
+-->
+<!--
+The man behind Project 2025
+https://wisconsinexaminer.com/2024/09/03/the-man-behind-project-2025s-most-radical-plans/
 -->
 <table>
   <caption>
