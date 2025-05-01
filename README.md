@@ -1,3 +1,4 @@
+<p>Total Score: <meter value="6" min="0" max="10">6 out of 10</meter></p>
 <h1>science vs project 2025 (the right-wing Koch Brothers/Heritage Foundation wish list since at least 1980)</h1>
 <h2>Republicans DEMONIZE, DOWNSIZE, then PRIVATIVE</h2>
 <H3>Fuck You!</H3>
