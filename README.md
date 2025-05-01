@@ -1,5 +1,5 @@
 <h1>Science vs Project 2025</h1>h1>
-<p></p>(the right-wing Koch Brothers/Heritage Foundation wish list since at least 1980)</p>
+<p>(the right-wing Koch Brothers/Heritage Foundation wish list since at least 1980)</p>
 <h2>Republicans DEMONize, DOWNSize, then PRIVATize</h2>
 <H3>Fuck You!</H3>
 <p>What is Project 2025? According to project 2025 &amp; the heritage foundation, 'Mandate for Leadership: The Conservative Promise'.
