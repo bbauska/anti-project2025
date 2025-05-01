@@ -1,6 +1,5 @@
-<p>Total Score: <meter value="6" min="0" max="10">6 out of 10</meter></p>
 <h1>science vs project 2025 (the right-wing Koch Brothers/Heritage Foundation wish list since at least 1980)</h1>
-<h2>Republicans DEMONIZE, DOWNSIZE, then PRIVATIVE</h2>
+<h2>Republicans DEMONize, DOWNSize, then PRIVATize</h2>
 <H3>Fuck You!</H3>
 <p>What is Project 2025? According to project 2025 &amp; the heritage foundation, 'Mandate for Leadership: The Conservative Promise'.
 Seriously? What the Fuck? Morons with money is their definition. True pieces of shit.</p>
