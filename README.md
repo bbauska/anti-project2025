@@ -1,4 +1,7 @@
 <h1>Science vs Project 2025</h1>
+<h2>None of DOGE's cuts were legitimate. NONE. It is all a lie. The government has the same
+employment rate is we did in 1975. 2.5 million then, 2.5 million now. So cuts are much worse
+than at any time in history. For the rich tax cuts is why.</h2>
 <p>(the right-wing Koch Brothers/Heritage Foundation wish list since at least 1980)</p>
 <h2>Republicans DEMONize, DOWNSize, then PRIVATize</h2>
 <H3>Fuck You!</H3>
